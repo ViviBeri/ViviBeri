@@ -109,7 +109,7 @@ An in-progress AI tool for [specific use case — e.g. "summarising study notes"
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages">
 
 
-<img src="https://streak-stats.demolab.com?user=ViviBeri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile/streak.svg" alt="GitHub Streak Stats">
 
 <!-- Contribution Snake -->
 <p align="center">

@@ -14,6 +14,12 @@ I turn practical problems into useful digital tools — from web experiences and
 
 </div>
 
+<p align="center">
+  <img src="assets/dev-wakes.gif"
+       alt="Pixel-art developer waking up and coding at night"
+       width="100%">
+</p>
+
 ## 👋 About Me
 
 - 🛠️ Engineer with a practical, problem-solving mindset.

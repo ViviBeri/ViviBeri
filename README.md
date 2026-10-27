@@ -24,7 +24,7 @@ I turn practical problems into useful digital tools — from web experiences and
 
 - 🔭 Currently building **Nexora AI** and improving **GradeCalc** (offline SGPA/CGPA PWA).
 - 📱 I ship **Android + PWA** tools and work comfortably across the web stack.
-- 💼 Built and maintain a **live business site** (KVB Enterprises) for tax/registration services.
+- 🌐 Shipped **KVB Enterprises** — a live business site for tax and registration services.
 - 🤝 Open to collaboration on practical tools and open-source contributions.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/berivivi)
 

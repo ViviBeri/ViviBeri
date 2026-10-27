@@ -69,17 +69,16 @@ I turn practical problems into useful digital tools — from web experiences and
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🤖 Nexora AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Project-7C3AED?style=for-the-badge" alt="AI project" />
-        <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=for-the-badge" alt="In development" />
-      </p>
-      An AI-focused project under development, exploring useful AI-powered experiences.
-      <p align="center">
-        <a href="https://github.com/ViviBeri/nexora-ai">
-          <img src="https://img.shields.io/badge/Repository-Nexora_AI-181717?style=for-the-badge&logo=github" alt="Nexora AI repository" />
-        </a>
-      </p>
+     <h3 align="center">🤖 Nexora AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Early_Development-F59E0B?style=for-the-badge" alt="Early development" />
+</p>
+An in-progress AI tool for [specific use case — e.g. "summarising study notes" or "generating practice questions"]. Built with [stack]. Expect rough edges.
+<p align="center">
+  <a href="https://github.com/ViviBeri/nexora-ai">
+    <img src="https://img.shields.io/badge/Repository-Source-181717?style=for-the-badge&logo=github" alt="Nexora AI repository" />
+  </a>
+</p>
     </td>
   </tr>
 </table>

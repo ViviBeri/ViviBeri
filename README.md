@@ -22,11 +22,11 @@ I turn practical problems into useful digital tools — from web experiences and
 
 ## 👋 About Me
 
-- 🛠️ Engineer with a practical, problem-solving mindset.
-- 💻 Interested in web development, Android apps, progressive web apps, and AI-assisted tools.
-- 📱 I enjoy turning ideas into lightweight, useful digital projects.
-- 🌱 Continuously learning through hands-on development.
-- 🤝 Open to feedback, collaboration, and open-source contributions.
+- 🔭 Currently building **Nexora AI** and improving **GradeCalc** (offline SGPA/CGPA PWA).
+- 📱 I ship **Android + PWA** tools and work comfortably across the web stack.
+- 🧾 Built and maintain a **live business site** (KVB Enterprises) for tax/registration services.
+- 🤝 Open to collaboration on practical tools and open-source contributions.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/berivivi)
 
 
 ## 🚀 Featured Projects
@@ -45,8 +45,8 @@ I turn practical problems into useful digital tools — from web experiences and
       </p>
       A student-focused SGPA and CGPA calculator delivered as a progressive web app and Android app.
       <p align="center">
-        <a href="https://github.com/ViviBeri?tab=repositories">
-          <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github" alt="View projects on GitHub" />
+        <a href="https://github.com/ViviBeri/gradecalc-app">
+  <img src="https://img.shields.io/badge/View_Repo-GradeCalc-181717?style=for-the-badge&logo=github" alt="GradeCalc repository" />
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@ I turn practical problems into useful digital tools — from web experiences and
 ## 🧰 Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,github,vscode" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,react,android,firebase,git,github,vscode" alt="Technology stack">
 </p>
 
 ## 📊 GitHub Activity

@@ -15,10 +15,8 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ViviBeri
@@ -26,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

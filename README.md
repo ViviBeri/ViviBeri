@@ -67,11 +67,13 @@ Explore my [GitHub repositories](https://github.com/ViviBeri?tab=repositories) f
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 <!-- Contribution Snake -->
-<img
-  src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg"
-  alt="ViviBeri GitHub contribution snake"
-  width="100%"
-  >
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg?v=2"
+    alt="ViviBeri green GitHub contribution snake"
+    width="100%"
+  />
+</p>
 
 </div>
 

@@ -5,8 +5,8 @@ on:
     - cron: "0 3 * * *"   # Runs every day at 03:00 UTC
   push:
     paths:
-      - ".github/workflows/streak-stats.yml"
-  workflow_dispatch:        # Lets you run it manually from the Actions tab
+      - ".github/workflows/streak-stats.yml"  # Runs if this file is modified
+  workflow_dispatch:        # Allows manual run from the Actions tab
 
 jobs:
   build:
@@ -17,11 +17,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |

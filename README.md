@@ -10,7 +10,7 @@ I turn practical problems into useful digital tools — from web experiences and
 [![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berivivi)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0f172a&height=3" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0f172a&height=3" width="320" alt="">
 
 </div>
 

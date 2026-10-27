@@ -28,26 +28,72 @@ I turn practical problems into useful digital tools — from web experiences and
 - 🌱 Continuously learning through hands-on development.
 - 🤝 Open to feedback, collaboration, and open-source contributions.
 
+
 ## 🚀 Featured Projects
 
-### 🎓 GradeCalc — SGPA & CGPA Calculator
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Projects+Built+with+Purpose;Ideas+into+Working+Products" alt="Projects built with purpose" />
+</p>
 
-A student-focused calculator project delivered as a progressive web app and Android app.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 GradeCalc</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Student-Tools-2563EB?style=for-the-badge" alt="Student tools" />
+        <img src="https://img.shields.io/badge/React_Native-PWA-06B6D4?style=for-the-badge" alt="React Native and PWA" />
+      </p>
+      A student-focused SGPA and CGPA calculator delivered as a progressive web app and Android app.
+      <p align="center">
+        <a href="https://github.com/ViviBeri?tab=repositories">
+          <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github" alt="View projects on GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧾 KVB ENTERPRISES</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Business-Website-0F766E?style=for-the-badge" alt="Business website" />
+        <img src="https://img.shields.io/badge/Tax-Services-16A34A?style=for-the-badge" alt="Tax services" />
+      </p>
+      A live business website supporting tax, registration, and business services.
+      <p align="center">
+        <a href="https://viviberi.github.io/tax-business/">
+          <img src="https://img.shields.io/badge/Live_Website-Visit-16A34A?style=for-the-badge&logo=googlechrome" alt="Visit live website" />
+        </a>
+        <a href="https://github.com/ViviBeri/tax-business">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="View source code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🤖 Nexora AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Project-7C3AED?style=for-the-badge" alt="AI project" />
+        <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=for-the-badge" alt="In development" />
+      </p>
+      An AI-focused project under development, exploring useful AI-powered experiences.
+      <p align="center">
+        <a href="https://github.com/ViviBeri/nexora-ai">
+          <img src="https://img.shields.io/badge/Repository-Nexora_AI-181717?style=for-the-badge&logo=github" alt="Nexora AI repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Technologies:** React Native, PWA
+<p align="center">
+  <i>Building practical tools, one project at a time.</i>
+</p>
 
-### 🧾 KVB ENTERPRISES — Business Services
+<p align="center">
+  <a href="https://github.com/ViviBeri?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-See_More-0F172A?style=for-the-badge&logo=github" alt="Explore all repositories" />
+  </a>
+</p>
 
-A website for tax, registration, and business-support services.
-
-- 🌐 [Visit Website](https://viviberi.github.io/tax-business/)
-- 💻 [View Source Code](https://github.com/ViviBeri/tax-business)
-
-### 🤖 Nexora AI
-
-An AI-focused project under development.
-
-Explore my [GitHub repositories](https://github.com/ViviBeri?tab=repositories) for more projects.
 
 ## 🧰 Tech & Tools
 

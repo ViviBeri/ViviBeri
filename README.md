@@ -63,9 +63,18 @@ Explore my [GitHub repositories](https://github.com/ViviBeri?tab=repositories) f
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages">
 
+
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
+<!-- Contribution Snake -->
+<img
+  src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg"
+  alt="ViviBeri GitHub contribution snake"
+  width="100%"
+  >
+
 </div>
+
 
 ## 🤝 Let's Connect
 

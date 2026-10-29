@@ -110,22 +110,6 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 ---
 
-## Interactive Cursor Cat
-
-<p align="center">
-  <a href="https://viviberi.github.io/ViviBeri/" title="Open the interactive cursor-following cat">
-    <img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/cursor-cat-banner.svg" alt="Interactive Cursor Cat banner — click to open the live cursor-following demo" width="100%" />
-  </a>
-</p>
-
-**Click the banner to try it.** The cat's eyes follow your pointer on the interactive webpage. GitHub README images are static, so the interaction runs on the linked page.
-
-- [Open the interactive cat demo](https://viviberi.github.io/ViviBeri/)
-- [View the HTML, CSS and JavaScript](https://github.com/ViviBeri/ViviBeri/blob/main/cat-banner/index.html)
-- [View the banner artwork](https://github.com/ViviBeri/ViviBeri/blob/main/assets/cursor-cat-banner.svg)
-
----
-
 ## GitHub activity
 
 My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.

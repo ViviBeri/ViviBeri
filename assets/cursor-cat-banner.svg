@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Interactive Cursor Cat by Bernard Vivian</title>
+<desc id="desc">A friendly cartoon cat on a dark neon background. Click to open the interactive cursor-following cat demo.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d32"/><stop offset="1" stop-color="#070b14"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60f5bd"/><stop offset="1" stop-color="#63a8ff"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#91b9e7" stroke-opacity=".12"/></pattern>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+<ellipse cx="940" cy="158" rx="170" ry="130" fill="#4fe8b6" opacity=".10" filter="url(#shadow)"/>
+<circle cx="1050" cy="60" r="3" fill="#66f4bd"/><circle cx="790" cy="235" r="4" fill="#6bb7ff"/><circle cx="1130" cy="230" r="3" fill="#66f4bd"/><path d="M780 75l7 7m0-7l-7 7M1100 100l8 8m0-8l-8 8" stroke="#6bb7ff" stroke-width="2" opacity=".8"/>
+<text x="68" y="78" fill="#63f5bd" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">A LITTLE INTERACTIVE EXPERIMENT</text>
+<text x="68" y="143" fill="#f0f6ff" font-family="Arial,sans-serif" font-size="48" font-weight="700">Hey there, builder.</text>
+<text x="70" y="184" fill="#a9bad2" font-family="Arial,sans-serif" font-size="21">Meet the cursor-following code cat.</text>
+<rect x="68" y="218" width="245" height="42" rx="21" fill="#0c2825" stroke="#285b4d"/>
+<circle cx="91" cy="239" r="5" fill="#63f5bd"/><text x="108" y="245" fill="#c8ffe9" font-family="Arial,sans-serif" font-size="15" font-weight="600">MOVE YOUR CURSOR TO PLAY</text>
+<!-- cat tail -->
+<path d="M1010 222 C1084 250 1121 204 1092 181 C1076 168 1064 188 1080 195" fill="none" stroke="#dce8f8" stroke-width="14" stroke-linecap="round"/>
+<!-- cat ears and head -->
+<path d="M866 145 L858 76 Q857 67 868 76 L906 104 Q948 88 986 105 L1024 76 Q1034 69 1031 81 L1023 147" fill="#f0f5ff" stroke="#9eb5d1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M873 96 L895 113 L870 126Z M1017 96 L994 113 L1020 126Z" fill="#ef9bb7"/>
+<path d="M866 139 Q871 103 910 101 Q952 92 987 103 Q1021 111 1025 145 L1021 201 Q1015 239 946 242 Q877 239 869 202Z" fill="#f5f8ff" stroke="#9eb5d1" stroke-width="3"/>
+<path d="M868 149 Q869 112 909 103 L921 143 L897 163 L870 173Z M986 104 Q1020 113 1024 148 L1021 171 L995 158 L979 134Z" fill="#27384f"/>
+<ellipse cx="909" cy="158" rx="17" ry="21" fill="#fff"/><ellipse cx="984" cy="158" rx="17" ry="21" fill="#fff"/>
+<ellipse cx="915" cy="160" rx="7" ry="11" fill="#16263b"/><circle cx="918" cy="155" r="3" fill="#fff"/>
+<ellipse cx="979" cy="160" rx="7" ry="11" fill="#16263b"/><circle cx="982" cy="155" r="3" fill="#fff"/>
+<ellipse cx="947" cy="190" rx="23" ry="16" fill="#fff"/><path d="M941 185 Q947 179 953 185 Q949 194 947 194 Q944 191 941 185Z" fill="#ef9bb7"/><path d="M947 194 Q941 201 935 196 M947 194 Q953 201 959 196" fill="none" stroke="#52677f" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M924 222 Q947 230 970 222" fill="none" stroke="#9eb5d1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="906" cy="188" r="5" fill="#f19fba" opacity=".7"/><circle cx="988" cy="188" r="5" fill="#f19fba" opacity=".7"/>
+<!-- cursor -->
+<path d="M1057 132 L1057 176 L1068 166 L1077 184 L1086 180 L1077 162 L1092 160Z" fill="url(#glow)" stroke="#07121c" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1098 133 Q1112 143 1113 155 M1106 119 Q1127 134 1129 154" fill="none" stroke="#63f5bd" stroke-width="3" stroke-linecap="round"/>
+<text x="1130" y="286" text-anchor="end" fill="#7186a2" font-family="Arial,sans-serif" font-size="14">BERNARD VIVIAN  ·  HTML / CSS / JS</text>
+</svg>

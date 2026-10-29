@@ -19,7 +19,8 @@ h1{position:relative;margin:12px 0 8px;font-size:clamp(2.5rem,7vw,5.2rem);line-h
 h1 span{color:var(--mint)}
 .intro{position:relative;max-width:560px;color:var(--muted);margin:0 auto 18px}
 .cat-wrap{position:relative;width:250px;height:220px;display:grid;place-items:center;margin:6px 0 12px;filter:drop-shadow(0 14px 30px #0007)}
-.octocat{width:220px;height:220px;overflow:visible;fill:#f5f8ff;animation:float 3.6s ease-in-out infinite;transition:transform .12s ease-out;filter:drop-shadow(0 0 18px #63f5bd20)}
+.octocat{width:300px;height:315px;overflow:visible;animation:float 3.6s ease-in-out infinite;transition:transform .12s ease-out;filter:drop-shadow(0 12px 16px #0002)}
+.pupil{transition:transform .08s linear}
 .status{position:relative;display:inline-flex;align-items:center;gap:9px;padding:9px 14px;border:1px solid #294a50;border-radius:999px;background:#0b211f;color:#c5ffe8;font-size:.88rem}
 .dot{width:8px;height:8px;background:var(--mint);border-radius:50%;box-shadow:0 0 14px var(--mint)}
 .hint{position:relative;color:#7187a3;font-size:.82rem;margin-top:17px}
@@ -42,8 +43,26 @@ footer{position:relative;margin-top:30px;color:#70839f;font-size:.78rem}
 <h1>Meet the <span>Octocat.</span></h1>
 <p class="intro">This is GitHub’s iconic Octocat mark — the cat-and-octopus mascot behind GitHub. Move your cursor or tap the panel to make it react.</p>
 <div class="cat-wrap" aria-label="GitHub Octocat mark">
-<svg class="octocat" id="octocat" viewBox="0 0 24 24" role="img" aria-label="GitHub Octocat silhouette" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.745.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.834 2.807 1.304 3.492.997.108-.775.418-1.305.762-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.468-2.381 1.235-3.221-.135-.303-.54-1.523.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3-.404 1.017.005 2.043.138 3.003.404 2.291-1.552 3.297-1.23 3.297-1.23.659 1.653.254 2.873.12 3.176.77.84 1.233 1.911 1.233 3.221 0 4.61-2.805 5.625-5.475 5.921.43.372.823 1.102.823 2.222 0 1.606-.015 2.898-.015 3.293 0 .322.216.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+<svg class="octocat" id="octocat" viewBox="0 0 420 440" role="img" aria-label="Cute black Octocat with peach face, whiskers and octopus tentacles" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="210" cy="390" rx="130" ry="29" fill="#75d7ed" opacity=".82"/>
+<g fill="#69bde5" opacity=".75"><path d="M160 381q28 22 15 57h-22q12-30-8-49z"/><path d="M190 382q28 25 17 56h-20q13-29-9-48z"/><path d="M231 382q-26 24-16 56h20q-13-29 8-48z"/><path d="M260 381q-27 22-15 57h22q-12-30 8-49z"/></g>
+<g id="octoTail"><path d="M150 294C112 314 99 288 84 267S56 248 49 255c-8 7 13 18 24 27 22 18 23 47 51 55 20 6 35-1 45-13z" fill="#050607" stroke="#050607" stroke-width="5" stroke-linejoin="round"/><g fill="#c6f5e8"><circle cx="65" cy="266" r="4"/><circle cx="81" cy="278" r="4"/><circle cx="94" cy="292" r="4"/><circle cx="110" cy="306" r="4"/><circle cx="128" cy="313" r="4"/><circle cx="144" cy="310" r="4"/></g></g>
+<g fill="#050607" stroke="#050607" stroke-linejoin="round" stroke-linecap="round">
+<path d="M145 280C126 300 130 340 137 367Q142 385 116 394Q104 400 114 405Q155 411 166 382L174 328z"/>
+<path d="M177 287C161 319 169 361 165 389Q161 406 185 411Q205 415 206 399L207 316z"/>
+<path d="M244 287C260 319 252 361 256 389Q260 406 236 411Q216 415 215 399L214 316z"/>
+<path d="M275 280C294 300 290 340 283 367Q278 385 304 394Q316 400 306 405Q265 411 254 382L246 328z"/>
+<path d="M143 112L132 42Q131 31 143 39L190 70Q210 64 230 70L277 39Q289 31 288 42L277 112Z"/>
+<path d="M93 132Q94 87 151 79Q210 68 269 79Q326 87 327 132L321 225Q315 278 266 286L154 286Q105 278 99 225Z"/>
+</g>
+<path d="M140 83L174 100L146 123Z M280 83L246 100L274 123Z" fill="#050607"/>
+<path d="M117 174Q120 124 158 116Q210 104 262 116Q300 124 303 174L297 225Q291 260 256 264H164Q129 260 123 225Z" fill="#f5c7ad"/>
+<g stroke="#050607" stroke-width="2.5" fill="none" stroke-linecap="round"><path d="M117 211Q74 204 20 213"/><path d="M119 222Q70 222 22 235"/><path d="M303 211Q346 204 400 213"/><path d="M301 222Q350 222 398 235"/></g>
+<g fill="#fff"><ellipse cx="169" cy="184" rx="19" ry="27"/><ellipse cx="251" cy="184" rx="19" ry="27"/></g>
+<g id="leftEye"><ellipse class="pupil" cx="171" cy="185" rx="10" ry="17" fill="#ad6258"/><circle class="pupil" cx="174" cy="178" r="3.5" fill="#fff"/></g>
+<g id="rightEye"><ellipse class="pupil" cx="249" cy="185" rx="10" ry="17" fill="#ad6258"/><circle class="pupil" cx="252" cy="178" r="3.5" fill="#fff"/></g>
+<circle cx="210" cy="213" r="5" fill="#ad6258"/>
+<path d="M199 225Q210 240 221 225" stroke="#ad6258" stroke-width="3.5" fill="none" stroke-linecap="round"/>
 </svg>
 </div>
 <div class="status"><span class="dot"></span><span id="statusText">Octocat is ready</span></div>
@@ -58,6 +77,7 @@ const stage=document.getElementById('stage');
 const orb=document.getElementById('orb');
 const status=document.getElementById('statusText');
 const octocat=document.getElementById('octocat');
+const pupils=[...document.querySelectorAll('.pupil')];
 const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 function follow(clientX,clientY){
  const r=stage.getBoundingClientRect();
@@ -69,11 +89,12 @@ function follow(clientX,clientY){
  const dx=Math.max(-1,Math.min(1,(clientX-cx)/180))*9;
  const dy=Math.max(-1,Math.min(1,(clientY-cy)/150))*7;
  octocat.style.transform='translate('+dx+'px,'+dy+'px) rotate('+(dx*.18)+'deg)';
+ pupils.forEach(p=>p.setAttribute('transform','translate('+Math.max(-2,Math.min(2,(clientX-cx)/180*2))+' '+Math.max(-2,Math.min(2,(clientY-cy)/150*2))+')'));
  status.textContent='Your cursor has the cat’s attention';
 }
 stage.addEventListener('pointermove',e=>{if(!reduced)follow(e.clientX,e.clientY)});
 stage.addEventListener('pointerdown',e=>follow(e.clientX,e.clientY));
-stage.addEventListener('pointerleave',()=>{octocat.style.transform='';status.textContent='Octocat is ready'});
+stage.addEventListener('pointerleave',()=>{octocat.style.transform='';pupils.forEach(p=>p.removeAttribute('transform'));status.textContent='Octocat is ready'});
 })();
 </script>
 </body>

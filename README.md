@@ -1,7 +1,9 @@
 # Bernard Vivian
-### Developer · Web & Android · Practical Software
+### Turning Everyday Needs, Ideas & Imagination into Working Software
 
-I build useful software for real workflows: student tools, business websites, and AI-assisted applications. My focus is on shipping usable products, making the underlying logic understandable, and improving reliability through testing and iteration.
+I turn day-to-day needs, ideas, and imagination into live, working projects. I build practical web apps, Android tools, AI-assisted workflows, and business solutions—and keep improving them through testing, feedback, and real-world use.
+
+**Current build status:** GradeCalc is improving continuously · LeadFlow is under testing · Nexora AI and OneClick AI Cover are still in development.
 
 **Based in Puducherry, India** · [GitHub](https://github.com/ViviBeri) · [LinkedIn](https://www.linkedin.com/in/berivivi)
 
@@ -10,13 +12,14 @@ I build useful software for real workflows: student tools, business websites, an
 ## Selected work
 
 ### GradeCalc — SGPA & CGPA Calculator
-A lightweight calculator built for SGC Pondicherry students. It supports credit-weighted SGPA, semester-based CGPA, grade conversion, and an installable PWA experience with offline support.
+A continuously improving calculator for SGC Pondicherry students. It supports credit-weighted SGPA, semester-based CGPA, grade conversion, and an installable PWA experience with offline support. I refine it day by day as I find better ways to solve students’ real needs.
 
 - **[Open the live app](https://gradecalc-sgc.netlify.app/)**
 - [Source code](https://github.com/ViviBeri/gradecalc-app)
 - [Calculation tests](https://github.com/ViviBeri/gradecalc-app/blob/main/tests/gradecalc-core.test.cjs)
 - **Engineering focus:** grade boundaries, credit-weighted calculations, absent/failed subjects, input validation, installability, and offline behavior.
 - **Stack:** HTML, CSS, JavaScript, PWA manifest, service worker, Node.js test runner.
+- **Status:** Live and actively improving.
 
 ### OneClick AI Cover — Local AI audio workflow
 
@@ -27,7 +30,16 @@ A free, open-source, Windows-first desktop project designed to separate vocals f
 - [Latest Windows CI run](https://github.com/ViviBeri/OneClick-AI-Cover/actions/workflows/windows-checks.yml)
 - **Engineering focus:** local audio-processing workflow, Demucs vocal separation, RVC CLI integration, audio mixing/export, managed setup, and automated smoke checks.
 - **Stack:** Python, Gradio, Demucs, RVC integration, FFmpeg, GitHub Actions.
-- **Status:** Early integration build. CI smoke checks have passed, but clean-machine installer validation and complete end-to-end conversion are still pending. This is a local desktop application, not a hosted browser demo.
+- **Status:** Still in development. CI smoke checks pass, but clean-machine installer validation and complete end-to-end conversion are not yet verified. This is a local desktop application, not a hosted browser demo.
+
+### LeadFlow — Android lead management
+
+An Android app for managing business leads and following up through WhatsApp. It is designed around manual, user-controlled outreach, with local lead storage and export options.
+
+- [Source code](https://github.com/ViviBeri/LeadFlow)
+- **Engineering focus:** Kotlin and Jetpack Compose UI, Room database, lead search and management, CSV/XLSX/PDF export, and WhatsApp link handoff without scraping or automatic message sending.
+- **Stack:** Kotlin, Jetpack Compose, Room, Android.
+- **Status:** Under testing — still being validated before it is presented as a finished release.
 
 ### KVB ENTERPRISES — Business services website
 A live website for a local business offering tax and registration assistance. The site includes service information, English/Tamil content, location pages, and enquiry-focused flows.
@@ -38,12 +50,12 @@ A live website for a local business offering tax and registration assistance. Th
 - **Stack:** HTML, CSS, JavaScript, Python build tooling, GitHub Pages.
 
 ### Nexora AI — AI-assisted workspace
-An in-progress application exploring an approval-based workflow for AI-assisted tasks. The project is being developed with a web dashboard and backend persistence; end-to-end behavior is still under validation.
+An AI-assisted workspace for coordinating tasks with human review, version history, and explicit approval before finalization. The current milestone includes a React/TypeScript dashboard and a FastAPI prototype with SQLite persistence.
 
 - [Repository](https://github.com/ViviBeri/nexora-ai) *(private repository; access may be required)*
 - **Engineering focus:** separating the UI and API, persistence, and keeping human approval in the workflow.
 - **Stack:** React, TypeScript, FastAPI, SQLite.
-- **Status:** In development — not presented as a production-ready demo.
+- **Status:** Still in development. Full local workflow validation, authentication/authorization, and deployment hardening remain before production use.
 
 ---
 
@@ -56,7 +68,9 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 - **Calculation correctness:** maintain automated tests for grade boundaries, absent/failed subjects, credit-weighted SGPA, and CGPA behavior in GradeCalc.
 - **Deployment:** publish working static sites through Netlify and GitHub Pages.
 - **Workflow automation:** maintain GitHub Actions workflows for repository automation.
-- **Backend exploration:** develop Nexora AI with a React/TypeScript frontend and a FastAPI/SQLite backend.
+- **Backend engineering:** develop Nexora AI with a React/TypeScript frontend and a FastAPI/SQLite backend.
+- **Android app development:** build LeadFlow with Kotlin, Jetpack Compose, and Room while testing the lead-management and export workflows.
+- **Local AI/audio tooling:** integrate audio-processing components in OneClick AI Cover and clearly separate CI smoke checks from full product verification.
 
 ### Tools and technologies used
 

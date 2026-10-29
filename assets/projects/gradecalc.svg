@@ -1,12 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-<title id="title">GradeCalc</title><desc id="desc">Illustrated cover for the GradeCalc SGPA and CGPA calculator project.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#172b3b"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
-<rect width="1200" height="560" rx="28" fill="url(#bg)"/><circle cx="1030" cy="65" r="210" fill="#34d399" opacity=".10"/><circle cx="1100" cy="500" r="240" fill="#38bdf8" opacity=".10"/>
-<rect x="54" y="54" width="12" height="452" rx="6" fill="url(#accent)"/>
-<text x="98" y="118" fill="#34d399" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4">LIVE PWA · STUDENT TOOL</text>
-<text x="98" y="198" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">GradeCalc</text>
-<text x="100" y="244" fill="#b8c6d6" font-family="Arial,Helvetica,sans-serif" font-size="25">SGPA • CGPA • Grade conversion</text>
-<g transform="translate(770 112)"><rect x="0" y="0" width="310" height="350" rx="28" fill="#111f2f" stroke="#2b4357" stroke-width="3"/><rect x="28" y="28" width="254" height="76" rx="14" fill="#172f40"/><text x="48" y="58" fill="#9db4c8" font-family="Arial" font-size="16">CURRENT SGPA</text><text x="48" y="88" fill="#6ee7b7" font-family="Arial" font-size="34" font-weight="700">8.72</text><rect x="28" y="126" width="72" height="68" rx="12" fill="#145a4a" stroke="#34d399"/><text x="64" y="168" text-anchor="middle" fill="#a7f3d0" font-family="Arial" font-size="24" font-weight="700">A+</text><rect x="116" y="126" width="72" height="68" rx="12" fill="#1b3042" stroke="#2d465a"/><text x="152" y="168" text-anchor="middle" fill="#d6e3ef" font-family="Arial" font-size="24" font-weight="700">A</text><rect x="204" y="126" width="72" height="68" rx="12" fill="#1b3042" stroke="#2d465a"/><text x="240" y="168" text-anchor="middle" fill="#d6e3ef" font-family="Arial" font-size="24" font-weight="700">B+</text><rect x="28" y="212" width="72" height="68" rx="12" fill="#1b3042" stroke="#2d465a"/><text x="64" y="254" text-anchor="middle" fill="#d6e3ef" font-family="Arial" font-size="24" font-weight="700">A</text><rect x="116" y="212" width="72" height="68" rx="12" fill="#1b3042" stroke="#2d465a"/><text x="152" y="254" text-anchor="middle" fill="#d6e3ef" font-family="Arial" font-size="24" font-weight="700">O</text><rect x="204" y="212" width="72" height="68" rx="12" fill="#1b3042" stroke="#2d465a"/><text x="240" y="254" text-anchor="middle" fill="#d6e3ef" font-family="Arial" font-size="24" font-weight="700">A+</text></g>
-<text x="98" y="492" fill="#8da1b5" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="2">BERNARD VIVIAN  /  PROJECT PORTFOLIO</text>
+<title id="title">GradeCalc — Student education and grade planning</title>
+<desc id="desc">A student-focused illustrated cover with a graduation cap, open study notebook, SGPA and CGPA score cards, and an animated learning progress chart.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b3c"/><stop offset=".55" stop-color="#182e59"/><stop offset="1" stop-color="#253d71"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e8efff"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="10"/><feOffset dy="9"/><feComponentTransfer><feFuncA type="linear" slope=".3"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  text{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .float{animation:float 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .float2{animation:float 6s ease-in-out -1.5s infinite;transform-box:fill-box;transform-origin:center}
+  .shine{animation:shine 2.8s ease-in-out infinite}
+  .draw{stroke-dasharray:180;stroke-dashoffset:180;animation:draw 3s ease-out .4s forwards}
+  @keyframes float{0%,100%{transform:translateY(0) rotate(-1deg)}50%{transform:translateY(-9px) rotate(1deg)}}
+  @keyframes shine{0%,100%{opacity:.5}50%{opacity:1}}
+  @keyframes draw{to{stroke-dashoffset:0}}
+</style>
+<rect width="1200" height="560" rx="28" fill="url(#bg)"/>
+<circle cx="1040" cy="65" r="220" fill="#818cf8" opacity=".12"/><circle cx="900" cy="500" r="250" fill="#22d3ee" opacity=".08"/>
+<path d="M0 470L330 560H0Z" fill="#67e8f9" opacity=".08"/>
+<rect x="54" y="54" width="8" height="452" rx="4" fill="url(#cyan)"/>
+<text x="92" y="112" fill="#a5f3fc" font-size="18" font-weight="700" letter-spacing="3">STUDENT LEARNING TOOL</text>
+<text x="88" y="193" fill="#fff" font-size="58" font-weight="800">GradeCalc</text>
+<text x="92" y="239" fill="#dbeafe" font-size="24">Understand grades. Plan your next goal.</text>
+<text x="92" y="288" fill="#c4b5fd" font-size="16" font-weight="700" letter-spacing="1.4">SGPA  •  CGPA  •  WHAT-IF PLANNING</text>
+<g transform="translate(92 319)">
+  <rect width="134" height="36" rx="18" fill="#34d399" fill-opacity=".14" stroke="#6ee7b7" stroke-opacity=".8"/>
+  <text x="67" y="23" fill="#a7f3d0" font-size="12" font-weight="700" text-anchor="middle">STUDENT FIRST</text>
+  <rect x="146" width="142" height="36" rx="18" fill="#818cf8" fill-opacity=".16" stroke="#c4b5fd" stroke-opacity=".8"/>
+  <text x="217" y="23" fill="#ddd6fe" font-size="12" font-weight="700" text-anchor="middle">INSTANT RESULTS</text>
+</g>
+<text x="92" y="459" fill="#b6c6e8" font-size="16">A simple companion for every semester.</text>
+<text x="92" y="505" fill="#91a7d4" font-size="13" letter-spacing="2">BERNARD VIVIAN  /  PROJECT PORTFOLIO</text>
+
+<!-- Floating graduation cap -->
+<g class="float2" transform="translate(770 88)">
+  <path d="M0 28L68 0L136 28L68 56Z" fill="#818cf8" stroke="#c4b5fd" stroke-width="2"/>
+  <path d="M28 39V61Q68 86 108 61V39L68 56Z" fill="#4f46e5"/>
+  <path d="M136 28V61" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/><circle cx="136" cy="64" r="4" fill="#fbbf24"/>
+</g>
+
+<!-- Study notebook -->
+<g class="float" filter="url(#shadow)" transform="translate(690 258) rotate(-7)">
+  <path d="M0 22Q55 5 110 22V160Q55 144 0 160Z" fill="url(#paper)" stroke="#c7d2fe" stroke-width="2"/>
+  <path d="M110 22Q165 5 220 22V160Q165 144 110 160Z" fill="#f8faff" stroke="#c7d2fe" stroke-width="2"/>
+  <path d="M110 22V160" stroke="#a5b4fc" stroke-width="2"/>
+  <g stroke="#b8c8e8" stroke-width="2" stroke-linecap="round"><path d="M14 45H94M14 64H94M14 83H94M14 102H94M124 45H204M124 64H204M124 83H204M124 102H204"/></g>
+  <path d="M14 132L35 121L54 128L73 108L94 99" fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="94" cy="99" r="4" fill="#4f46e5"/>
+</g>
+
+<!-- SGPA score card -->
+<g class="float2" filter="url(#shadow)">
+  <rect x="905" y="153" width="222" height="130" rx="18" fill="#fff" stroke="#c7d2fe" stroke-width="2"/>
+  <rect x="905" y="153" width="222" height="37" rx="18" fill="#eef2ff"/><path d="M905 173V190H1127V173" fill="#eef2ff"/>
+  <circle cx="924" cy="172" r="4" fill="#818cf8"/><circle cx="938" cy="172" r="4" fill="#38bdf8"/><circle cx="952" cy="172" r="4" fill="#34d399"/>
+  <text x="923" y="211" fill="#64748b" font-size="11" font-weight="700">CURRENT SEMESTER</text>
+  <text x="923" y="244" fill="#172554" font-size="29" font-weight="800">SGPA 8.72</text>
+  <rect x="923" y="257" width="185" height="8" rx="4" fill="#e0e7ff"/><rect x="923" y="257" width="160" height="8" rx="4" fill="url(#violet)"/>
+</g>
+
+<!-- CGPA target chart -->
+<g class="float" filter="url(#shadow)">
+  <rect x="956" y="322" width="173" height="136" rx="18" fill="#12234a" stroke="#67e8f9" stroke-opacity=".9" stroke-width="1.5"/>
+  <text x="974" y="347" fill="#a5f3fc" font-size="11" font-weight="700">CGPA GOAL</text>
+  <text x="974" y="376" fill="#fff" font-size="24" font-weight="800">9.0 <tspan fill="#9fb2d7" font-size="12">/ 10</tspan></text>
+  <path class="draw" d="M974 428L996 415L1016 420L1038 393L1057 401L1080 378L1110 385" fill="none" stroke="#67e8f9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M974 428L996 415L1016 420L1038 393L1057 401L1080 378L1110 385V440H974Z" fill="#22d3ee" opacity=".1"/>
+</g>
+<g class="shine" fill="#a5f3fc"><path d="M704 180l4 10 10 4-10 4-4 10-4-10-10-4 10-4Z"/><circle cx="1148" cy="302" r="4"/></g>
 </svg>

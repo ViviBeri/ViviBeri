@@ -1,139 +1,90 @@
-
-<div align="center">
-
 # Bernard Vivian
+### Developer · Web & Android · Practical Software
 
-### Engineer · Web & Android Developer · Builder
+I build useful software for real workflows: student tools, business websites, and AI-assisted applications. My focus is on shipping usable products, making the underlying logic understandable, and improving reliability through testing and iteration.
 
-I turn practical problems into useful digital tools — from web experiences and Android/PWA projects to engineering-focused utilities.
+**Based in Puducherry, India** · [GitHub](https://github.com/ViviBeri) · [LinkedIn](https://www.linkedin.com/in/berivivi)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berivivi)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0f172a&height=3" width="320" alt="">
+## Selected work
 
-</div>
+### GradeCalc — SGPA & CGPA Calculator
+A lightweight calculator built for SGC Pondicherry students. It supports credit-weighted SGPA, semester-based CGPA, grade conversion, and an installable PWA experience with offline support.
 
-<p align="center">
-  <img src="assets/dev-wakes.gif"
-       alt="Pixel-art developer waking up and coding at night"
-       width="100%">
-</p>
+- **[Open the live app](https://gradecalc-sgc.netlify.app/)**
+- [Source code](https://github.com/ViviBeri/gradecalc-app)
+- [Calculation tests](https://github.com/ViviBeri/gradecalc-app/tree/main/tests)
+- **Engineering focus:** grade boundaries, credit-weighted calculations, absent/failed subjects, input validation, installability, and offline behavior.
+- **Stack:** HTML, CSS, JavaScript, PWA manifest, service worker, Node.js test runner.
 
-## 👋 About Me
+### KVB ENTERPRISES — Business services website
+A live website for a local business offering tax and registration assistance. The site includes service information, English/Tamil content, location pages, and enquiry-focused flows.
 
-- 🔭 Currently building **Nexora AI** and improving **GradeCalc** (offline SGPA/CGPA PWA).
-- 📱 I ship **Android + PWA** tools and work comfortably across the web stack.
-- 🌐 Shipped **KVB Enterprises** — a live business site for tax and registration services.
-- 🤝 Open to collaboration on practical tools and open-source contributions.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/berivivi)
+- **[Visit the live website](https://viviberi.github.io/tax-business/)**
+- [Source code](https://github.com/ViviBeri/tax-business)
+- **Engineering focus:** responsive static pages, service-oriented navigation, bilingual content, SEO basics, and lead-generation interactions.
+- **Stack:** HTML, CSS, JavaScript, Python build tooling, GitHub Pages.
 
+### Nexora AI — AI-assisted workspace
+An in-progress application exploring an approval-based workflow for AI-assisted tasks. The project is being developed with a web dashboard and backend persistence; end-to-end behavior is still under validation.
 
-## 🚀 Featured Projects
+- [Repository](https://github.com/ViviBeri/nexora-ai) *(private repository; access may be required)*
+- **Engineering focus:** separating the UI and API, persistence, and keeping human approval in the workflow.
+- **Stack:** React, TypeScript, FastAPI, SQLite.
+- **Status:** In development — not presented as a production-ready demo.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Projects+Built+with+Purpose;Ideas+into+Working+Products" alt="Projects built with purpose" />
-</p>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 GradeCalc</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Student-Tools-2563EB?style=for-the-badge" alt="Student tools" />
-        <img src="https://img.shields.io/badge/React_Native-PWA-06B6D4?style=for-the-badge" alt="React Native and PWA" />
-      </p>
-      A student-focused SGPA and CGPA calculator delivered as a progressive web app and Android app.
-      <p align="center">
-        <a href="https://github.com/ViviBeri/gradecalc-app">
-  <img src="https://img.shields.io/badge/View_Repo-GradeCalc-181717?style=for-the-badge&logo=github" alt="GradeCalc repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧾 KVB ENTERPRISES</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Business-Website-0F766E?style=for-the-badge" alt="Business website" />
-        <img src="https://img.shields.io/badge/Tax-Services-16A34A?style=for-the-badge" alt="Tax services" />
-      </p>
-      A live business website supporting tax, registration, and business services.
-      <p align="center">
-        <a href="https://viviberi.github.io/tax-business/">
-          <img src="https://img.shields.io/badge/Live_Website-Visit-16A34A?style=for-the-badge&logo=googlechrome" alt="Visit live website" />
-        </a>
-        <a href="https://github.com/ViviBeri/tax-business">
-          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="View source code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-     <h3 align="center">🤖 Nexora AI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Early_Development-F59E0B?style=for-the-badge" alt="Early development" />
-</p>
-An AI-assisted workspace with a React and TypeScript dashboard, a FastAPI backend, SQLite persistence, and a human-approval workflow. It is actively being developed, and end-to-end behavior is still being validated.
-<p align="center">
-  <a href="https://github.com/ViviBeri/nexora-ai">
-    <img src="https://img.shields.io/badge/Repository-Source-181717?style=for-the-badge&logo=github" alt="Nexora AI repository" />
-  </a>
-</p>
-    </td>
-  </tr>
-</table>
+## Engineering in practice
 
-<p align="center">
-  <i>Building practical tools, one project at a time.</i>
-</p>
+I prefer evidence in the code over long lists of technology badges. Examples from the projects above:
 
-<p align="center">
-  <a href="https://github.com/ViviBeri?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-See_More-0F172A?style=for-the-badge&logo=github" alt="Explore all repositories" />
-  </a>
-</p>
+- **Frontend delivery:** build and maintain responsive web interfaces with HTML, CSS, and JavaScript.
+- **Offline-first behavior:** use a PWA manifest and service worker to support installation and offline use in GradeCalc.
+- **Calculation correctness:** maintain automated tests for grade boundaries, absent/failed subjects, credit-weighted SGPA, and CGPA behavior in GradeCalc.
+- **Deployment:** publish working static sites through Netlify and GitHub Pages.
+- **Workflow automation:** maintain GitHub Actions workflows for repository automation.
+- **Backend exploration:** develop Nexora AI with a React/TypeScript frontend and a FastAPI/SQLite backend.
 
+### Tools and technologies used
 
-## 🧰 Tech & Tools
+**Web:** HTML · CSS · JavaScript  
+**PWA & mobile:** Progressive Web Apps · Service Workers · Android app packaging  
+**Backend & data:** Python · FastAPI · SQLite · TypeScript · React  
+**Engineering workflow:** Git · GitHub · GitHub Actions · Node.js testing · Netlify · GitHub Pages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,react,android,firebase,git,github,vscode" alt="Technology stack">
-</p>
+*These are technologies used in the projects above, not a claim of equal depth or professional certification in every tool.*
 
-## 📊 GitHub Activity
+---
 
-<div align="center">
+## How I approach projects
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics">
+1. **Start with a real need** — define the user and the job the software should do.
+2. **Build the smallest useful version** — prioritize the core workflow over decorative features.
+3. **Validate behavior** — test important calculations and edge cases, then fix what fails.
+4. **Ship and improve** — deploy the result, document limitations, and iterate based on actual use.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages">
+---
 
+## GitHub activity
 
-<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile/streak.svg" alt="GitHub Streak Stats">
+My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.
 
-<!-- Contribution Snake -->
+<!-- Contribution Snake: keep the existing green contribution animation -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg?v=2"
-    alt="ViviBeri green GitHub contribution snake"
+    alt="Green GitHub contribution graph animation"
     width="100%"
   />
 </p>
 
-</div>
-
-
-## 🤝 Let's Connect
-
-Have an idea, a practical problem to solve, or a project to collaborate on?
-
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/berivivi)
-- 💻 [Explore my repositories](https://github.com/ViviBeri?tab=repositories)
-
 ---
 
-<div align="center">
+## Contact
 
-*Build consistently. Learn continuously. Make things useful.*
+I'm interested in practical web and mobile projects, useful developer tools, and collaborations where clear implementation and reliability matter.
 
-</div>
+- [Connect on LinkedIn](https://www.linkedin.com/in/berivivi)
+- [Browse all repositories](https://github.com/ViviBeri?tab=repositories)

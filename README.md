@@ -112,12 +112,17 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 ## Interactive Cursor Cat
 
-A small interactive banner experiment: a custom animated cat follows the pointer with its eyes, with a responsive layout and reduced-motion support.
+<p align="center">
+  <a href="https://viviberi.github.io/ViviBeri/cat-banner/" title="Open the interactive cursor-following cat">
+    <img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/cursor-cat-banner.svg" alt="Interactive Cursor Cat banner — click to open the live cursor-following demo" width="100%" />
+  </a>
+</p>
 
-- **[Open the live demo](https://viviberi.github.io/ViviBeri/cat-banner/)** *(requires GitHub Pages to be enabled for this repository)*
-- [View the HTML, CSS and JavaScript source](https://github.com/ViviBeri/ViviBeri/blob/main/cat-banner/index.html)
+**Click the banner to try it.** The cat's eyes follow your pointer on the interactive webpage. GitHub README images are static, so the interaction runs on the linked page.
 
-The interactive effect runs on a webpage; GitHub profile README Markdown cannot run custom JavaScript directly.
+- [Open the interactive cat demo](https://viviberi.github.io/ViviBeri/cat-banner/)
+- [View the HTML, CSS and JavaScript](https://github.com/ViviBeri/ViviBeri/blob/main/cat-banner/index.html)
+- [View the banner artwork](https://github.com/ViviBeri/ViviBeri/blob/main/assets/cursor-cat-banner.svg)
 
 ---
 

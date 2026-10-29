@@ -110,6 +110,17 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 ---
 
+## Interactive Cursor Cat
+
+A small interactive banner experiment: a custom animated cat follows the pointer with its eyes, with a responsive layout and reduced-motion support.
+
+- **[Open the live demo](https://viviberi.github.io/ViviBeri/cat-banner/)** *(requires GitHub Pages to be enabled for this repository)*
+- [View the HTML, CSS and JavaScript source](https://github.com/ViviBeri/ViviBeri/blob/main/cat-banner/index.html)
+
+The interactive effect runs on a webpage; GitHub profile README Markdown cannot run custom JavaScript directly.
+
+---
+
 ## GitHub activity
 
 My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.

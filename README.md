@@ -20,7 +20,7 @@ I turn day-to-day needs, ideas, and imagination into live, working projects. I b
   <a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover project cover — local audio workflow, in development" width="48%" /></a>
 </p>
 <p align="center">
-  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/kvb-enterprises.svg" alt="KVB ENTERPRISES project cover — live business services website" width="72%" /></a>
+  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/tax-business/main/assets/og-image.png" alt="KVB ENTERPRISES project cover — live business services website" width="72%" /></a>
 </p>
 
 *These are custom illustrated project covers, not screenshots of the running interfaces. The links open the live app or the relevant repository; interface screenshots can replace these covers as verified captures become available.*

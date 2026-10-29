@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#080d18">
+<meta name="description" content="An interactive cursor-following GitHub-style cat by Bernard Vivian.">
+<title>Cursor Cat — Bernard Vivian</title>
+<style>
+:root{color-scheme:dark;--bg:#080d18;--panel:#101a2b;--line:#24364f;--text:#edf5ff;--muted:#9fb0c8;--mint:#63f5bd;--blue:#6db5ff}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% 15%,#172a46 0,transparent 48%),var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;overflow-x:hidden}
+main{min-height:100vh;display:grid;place-items:center;padding:28px}
+.stage{width:min(100%,1000px);min-height:600px;position:relative;overflow:hidden;border:1px solid var(--line);border-radius:28px;background:linear-gradient(145deg,rgba(18,31,51,.96),rgba(8,13,24,.98));box-shadow:0 28px 100px #0008;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:42px 24px}
+.grid{position:absolute;inset:0;pointer-events:none;opacity:.19;background-image:linear-gradient(#8eb9e51b 1px,transparent 1px),linear-gradient(90deg,#8eb9e51b 1px,transparent 1px);background-size:34px 34px;mask-image:linear-gradient(to bottom,black,transparent 90%)}
+.orb{position:absolute;width:360px;height:360px;border-radius:50%;background:#54e9ba12;filter:blur(14px);pointer-events:none;transform:translate(-50%,-50%);left:50%;top:44%;transition:left .12s linear,top .12s linear}
+.eyebrow{position:relative;color:var(--mint);font-size:.78rem;font-weight:750;letter-spacing:.22em;text-transform:uppercase}
+h1{position:relative;margin:12px 0 8px;font-size:clamp(2.5rem,7vw,5.2rem);line-height:1.03;letter-spacing:-.055em}
+h1 span{color:var(--mint)}
+.intro{position:relative;max-width:560px;color:var(--muted);margin:0 auto 18px}
+.cat-wrap{position:relative;width:250px;height:220px;display:grid;place-items:center;margin:6px 0 12px;filter:drop-shadow(0 14px 30px #0007)}
+.cat{width:220px;height:210px;overflow:visible;animation:float 3.6s ease-in-out infinite}
+.cat .pupil{transition:transform .08s linear}
+.cat .tail{transform-origin:161px 153px;animation:tail 2.5s ease-in-out infinite}
+.cat .blink{transform-box:fill-box;transform-origin:center;animation:blink 5.2s infinite}
+.status{position:relative;display:inline-flex;align-items:center;gap:9px;padding:9px 14px;border:1px solid #294a50;border-radius:999px;background:#0b211f;color:#c5ffe8;font-size:.88rem}
+.dot{width:8px;height:8px;background:var(--mint);border-radius:50%;box-shadow:0 0 14px var(--mint)}
+.hint{position:relative;color:#7187a3;font-size:.82rem;margin-top:17px}
+.links{position:relative;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:20px}
+a{color:var(--text);text-decoration:none;border:1px solid var(--line);border-radius:12px;padding:10px 15px;background:#111e31}
+a:hover,a:focus-visible{border-color:var(--mint);outline:none}
+footer{position:relative;margin-top:30px;color:#70839f;font-size:.78rem}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes tail{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(13deg)}}
+@keyframes blink{0%,44%,48%,100%{transform:scaleY(1)}46%{transform:scaleY(.08)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+@media(max-width:520px){main{padding:12px}.stage{min-height:calc(100vh - 24px);padding:32px 16px;border-radius:20px}.cat-wrap{transform:scale(.88);margin:-2px 0}.hint{max-width:280px}}
+</style>
+</head>
+<body>
+<main>
+<section class="stage" id="stage" aria-label="Interactive cursor cat banner">
+<div class="grid" aria-hidden="true"></div><div class="orb" id="orb" aria-hidden="true"></div>
+<div class="eyebrow">A tiny interactive experiment</div>
+<h1>Hey there, <span>builder.</span></h1>
+<p class="intro">Move your cursor around. This little code cat will follow your pointer with its eyes.</p>
+<div class="cat-wrap" aria-label="Animated cat illustration">
+<svg class="cat" viewBox="0 0 220 210" role="img" aria-label="Friendly black-and-white cartoon cat">
+<g class="tail"><path d="M158 151 C190 158 199 132 186 119 C177 110 168 121 174 128" fill="none" stroke="#d9e7f5" stroke-width="13" stroke-linecap="round"/><path d="M158 151 C190 158 199 132 186 119" fill="none" stroke="#26364c" stroke-width="4" stroke-linecap="round"/></g>
+<path d="M49 87 L43 28 Q42 20 50 27 L83 52 Q110 40 137 52 L170 27 Q178 21 176 31 L170 88" fill="#eaf2fc" stroke="#9eb5d1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M53 48 L72 62 L52 73Z" fill="#f19ab5"/><path d="M165 48 L146 62 L166 73Z" fill="#f19ab5"/>
+<path d="M48 83 C50 55 75 47 109 47 C148 47 172 61 174 91 L171 139 C168 165 146 178 111 178 C76 178 52 163 49 139Z" fill="#f5f8ff" stroke="#9eb5d1" stroke-width="3"/>
+<path d="M50 88 Q52 56 83 52 L92 85 L72 103 L50 111Z" fill="#26364c"/><path d="M145 53 Q170 61 173 89 L171 109 L150 98 L136 80Z" fill="#26364c"/>
+<ellipse cx="83" cy="103" rx="19" ry="23" fill="#fff"/><ellipse cx="139" cy="103" rx="19" ry="23" fill="#fff"/>
+<g id="leftEye"><ellipse class="pupil" cx="86" cy="104" rx="8" ry="12" fill="#17263c"/><circle class="pupil" cx="89" cy="99" r="3" fill="#fff"/></g>
+<g id="rightEye"><ellipse class="pupil" cx="136" cy="104" rx="8" ry="12" fill="#17263c"/><circle class="pupil" cx="139" cy="99" r="3" fill="#fff"/></g>
+<path class="blink" d="M65 91 Q83 79 101 91 M121 91 Q139 79 157 91" fill="none" stroke="#26364c" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="110" cy="129" rx="23" ry="17" fill="#fff"/>
+<path d="M104 124 Q110 118 116 124 Q111 133 110 133 Q107 130 104 124Z" fill="#f19ab5" stroke="#d57998" stroke-width="1.5"/>
+<path d="M110 133 Q105 141 98 135 M110 133 Q115 141 122 135" fill="none" stroke="#52677f" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M86 128 L56 123 M86 135 L55 137 M134 128 L164 123 M134 135 L165 137" stroke="#9eb5d1" stroke-width="2" stroke-linecap="round"/>
+<path d="M83 160 Q110 171 137 160" fill="none" stroke="#9eb5d1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="72" cy="125" r="5" fill="#f5b8c9" opacity=".65"/><circle cx="148" cy="125" r="5" fill="#f5b8c9" opacity=".65"/>
+</svg>
+</div>
+<div class="status"><span class="dot"></span><span id="statusText">Cursor tracking is active</span></div>
+<div class="hint">On a phone? Tap or drag anywhere inside the panel.</div>
+<div class="links"><a href="https://github.com/ViviBeri">GitHub profile</a><a href="https://github.com/ViviBeri/ViviBeri">View the source</a></div>
+<footer>Built with HTML, CSS and JavaScript · Bernard Vivian</footer>
+</section>
+</main>
+<script>
+(function(){
+const stage=document.getElementById('stage');
+const orb=document.getElementById('orb');
+const status=document.getElementById('statusText');
+const pupils=[...document.querySelectorAll('.pupil')];
+const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+function follow(clientX,clientY){
+ const r=stage.getBoundingClientRect();
+ const x=Math.max(0,Math.min(r.width,(clientX-r.left)));
+ const y=Math.max(0,Math.min(r.height,(clientY-r.top)));
+ orb.style.left=x+'px';orb.style.top=y+'px';
+ const catRect=document.querySelector('.cat').getBoundingClientRect();
+ const cx=catRect.left+catRect.width/2,cy=catRect.top+catRect.height/2;
+ const dx=Math.max(-1,Math.min(1,(clientX-cx)/180))*5;
+ const dy=Math.max(-1,Math.min(1,(clientY-cy)/150))*5;
+ pupils.forEach(p=>p.setAttribute('transform','translate('+dx+' '+dy+')'));
+ status.textContent='Your cursor has the cat’s attention';
+}
+stage.addEventListener('pointermove',e=>{if(!reduced)follow(e.clientX,e.clientY)});
+stage.addEventListener('pointerdown',e=>follow(e.clientX,e.clientY));
+stage.addEventListener('pointerleave',()=>{pupils.forEach(p=>p.removeAttribute('transform'));status.textContent='Cursor tracking is active'});
+})();
+</script>
+</body>
+</html>

@@ -34,7 +34,7 @@ A continuously improving calculator for SGC Pondicherry students. It supports cr
 
 - **[Open the live app](https://gradecalc-sgc.netlify.app/)**
 - [Source code](https://github.com/ViviBeri/gradecalc-app)
-- [Calculation tests](https://github.com/ViviBeri/gradecalc-app/blob/main/tests/gradecalc-core.test.cjs)
+- [Calculation tests](https://github.com/ViviBeri/gradecalc-app/blob/main/tests.js)
 - **Engineering focus:** grade boundaries, credit-weighted calculations, absent/failed subjects, input validation, installability, and offline behavior.
 - **Stack:** HTML, CSS, JavaScript, PWA manifest, service worker, Node.js test runner.
 - **Status:** Live and actively improving.

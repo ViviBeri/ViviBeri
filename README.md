@@ -73,7 +73,7 @@ I turn practical problems into useful digital tools — from web experiences and
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Early_Development-F59E0B?style=for-the-badge" alt="Early development" />
 </p>
-An in-progress AI tool for [specific use case — e.g. "summarising study notes" or "generating practice questions"]. Built with [stack]. Expect rough edges.
+An AI-assisted workspace with a React and TypeScript dashboard, a FastAPI backend, SQLite persistence, and a human-approval workflow. It is actively being developed, and end-to-end behavior is still being validated.
 <p align="center">
   <a href="https://github.com/ViviBeri/nexora-ai">
     <img src="https://img.shields.io/badge/Repository-Source-181717?style=for-the-badge&logo=github" alt="Nexora AI repository" />

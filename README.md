@@ -9,6 +9,24 @@ I turn day-to-day needs, ideas, and imagination into live, working projects. I b
 
 ---
 
+## Project showcase
+
+<p align="center">
+  <a href="https://gradecalc-sgc.netlify.app/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/gradecalc.svg" alt="GradeCalc project cover — live SGPA and CGPA calculator" width="48%" /></a>
+  <a href="https://github.com/ViviBeri/LeadFlow"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/leadflow.svg" alt="LeadFlow project cover — Android lead management, under testing" width="48%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ViviBeri/nexora-ai"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/nexora.svg" alt="Nexora AI project cover — human-reviewed AI workspace, in development" width="48%" /></a>
+  <a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover project cover — local audio workflow, in development" width="48%" /></a>
+</p>
+<p align="center">
+  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/kvb-enterprises.svg" alt="KVB ENTERPRISES project cover — live business services website" width="72%" /></a>
+</p>
+
+*These are custom illustrated project covers, not screenshots of the running interfaces. The links open the live app or the relevant repository; interface screenshots can replace these covers as verified captures become available.*
+
+---
+
 ## Selected work
 
 ### GradeCalc — SGPA & CGPA Calculator

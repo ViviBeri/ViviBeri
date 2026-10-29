@@ -18,6 +18,17 @@ A lightweight calculator built for SGC Pondicherry students. It supports credit-
 - **Engineering focus:** grade boundaries, credit-weighted calculations, absent/failed subjects, input validation, installability, and offline behavior.
 - **Stack:** HTML, CSS, JavaScript, PWA manifest, service worker, Node.js test runner.
 
+### OneClick AI Cover — Local AI audio workflow
+
+A free, open-source, Windows-first desktop project designed to separate vocals from a track, convert vocals with an authorized RVC voice model, remix them with the instrumental, and export audio locally—without paid APIs or cloud inference.
+
+- [Source code](https://github.com/ViviBeri/OneClick-AI-Cover)
+- [Verification plan](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/verification.md)
+- [Latest Windows CI run](https://github.com/ViviBeri/OneClick-AI-Cover/actions/workflows/windows-checks.yml)
+- **Engineering focus:** local audio-processing workflow, Demucs vocal separation, RVC CLI integration, audio mixing/export, managed setup, and automated smoke checks.
+- **Stack:** Python, Gradio, Demucs, RVC integration, FFmpeg, GitHub Actions.
+- **Status:** Early integration build. CI smoke checks have passed, but clean-machine installer validation and complete end-to-end conversion are still pending. This is a local desktop application, not a hosted browser demo.
+
 ### KVB ENTERPRISES — Business services website
 A live website for a local business offering tax and registration assistance. The site includes service information, English/Tamil content, location pages, and enquiry-focused flows.
 

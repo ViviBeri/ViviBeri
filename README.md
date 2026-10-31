@@ -110,6 +110,23 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 ---
 
+## Open-source contributions
+
+I contribute improvements to established open-source projects through focused code changes, maintainer feedback, and verified CI checks.
+
+### Music Assistant — Mobile app
+
+**[PR #1295: Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295)** · <strong>Merged October 31, 2026</strong>
+
+Updated artwork-derived UI tinting for item-description actions, multidisc album headers, artist-page “View all” buttons, and the audiobook current-chapter indicator/title. The change was maintainer-approved, and Build, Compile, and Detekt checks passed.
+
+- **Technologies:** Kotlin, Jetpack Compose
+- **Contribution:** UI theming, dynamic artwork colors, component updates, review feedback, CI verification
+- [View merge commit](https://github.com/music-assistant/mobile-app/commit/d4a7256c3b6a8c8ef3d30f986d4ac90e4e9c86bc)
+- [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
+
+---
+
 ## GitHub activity
 
 My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.

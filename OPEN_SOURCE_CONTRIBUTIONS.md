@@ -23,6 +23,27 @@ A record of contributions made to projects maintained by the wider open-source c
 
 **Skills demonstrated:** Kotlin, Jetpack Compose, UI theming, artwork-derived dynamic colors, component parameter propagation, code review collaboration, and CI verification.
 
+
+### claude-locator — Developer tooling
+
+- **Pull request:** [#6 — Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6)
+- **Repository:** [scs0209/claude-locator](https://github.com/scs0209/claude-locator)
+- **Status:** Merged
+- **Merged on:** October 30, 2026
+- **Merge commit:** [8f94447e80e75254706bfa34ac7980528e77c49c](https://github.com/scs0209/claude-locator/commit/8f94447e80e75254706bfa34ac7980528e77c49c)
+- **Maintainer feedback:** The owner called it the project's first outside contribution and confirmed it covered everything requested in issue #4. The owner merged it with two additional clarifications.
+- **Files changed:** 1 (README)
+- **Change summary:**
+  - Added troubleshooting guidance for Option+click events that do not reach the dev server.
+  - Documented the Claude desktop Files pane and plugin requirements.
+  - Explained Cursor launcher selection and the macOS-only installed-app fallback.
+  - Clarified the expected delay before editor tabs appear.
+  - Documented the Astro 7 development-server restart requirement.
+- **Validation:** One check passed on the merged pull request.
+- **Related issue:** [#4 — README: a troubleshooting section](https://github.com/scs0209/claude-locator/issues/4), closed as completed.
+
+**Skills demonstrated:** Technical documentation, issue analysis, troubleshooting, cross-platform developer experience, maintainer collaboration, and CI verification.
+
 ---
 
 *Only merged contributions are listed in the section above. Work that is still under review should be recorded separately and must not be presented as merged.*

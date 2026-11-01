@@ -47,3 +47,26 @@ A record of contributions made to projects maintained by the wider open-source c
 ---
 
 *Only merged contributions are listed in the section above. Work that is still under review should be recorded separately and must not be presented as merged.*
+
+---
+
+### claude-locator — README troubleshooting documentation
+
+- **Pull request:** [#6 — docs: add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6)
+- **Repository:** [scs0209/claude-locator](https://github.com/scs0209/claude-locator)
+- **Status:** Merged
+- **Merged on:** October 30, 2026
+- **Merged by:** Repository owner `scs0209`
+- **Merge commit:** [8f94447e80e75254706bfa34ac7980528e77c49c](https://github.com/scs0209/claude-locator/commit/8f94447e80e75254706bfa34ac7980528e77c49c)
+- **Files changed:** 1 README file
+- **Change summary:**
+  - Added troubleshooting guidance for Option+click events that do not reach the server.
+  - Documented Claude Files pane session and plugin requirements.
+  - Explained Cursor launcher selection and platform limitations.
+  - Clarified expected editor-tab launch delay.
+  - Documented the Astro 7 development-server restart requirement.
+- **Related issue:** [#4 — README: a troubleshooting section](https://github.com/scs0209/claude-locator/issues/4), closed as completed by the maintainer.
+- **Maintainer feedback:** The repository owner called it the project's first outside contribution and merged it, adding two small platform-specific clarifications.
+
+**Skills demonstrated:** Open-source documentation, developer-experience improvements, troubleshooting analysis, maintainer collaboration, and issue-driven contribution.
+

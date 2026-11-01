@@ -114,6 +114,20 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 I contribute improvements to established open-source projects through focused code changes, maintainer feedback, and verified CI checks.
 
+### claude-locator — README troubleshooting documentation
+
+**[PR #6: Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6)** · <strong>Merged October 30, 2026</strong>
+
+Added a dedicated troubleshooting section consolidating five common setup and usage issues: Option+click not reaching the server, Claude Files pane requirements, Cursor launcher selection, delayed editor tabs, and Astro 7 configuration restarts. The repository owner described it as the project's **first outside contribution** and merged it.
+
+- **Repository:** [scs0209/claude-locator](https://github.com/scs0209/claude-locator)
+- **Contribution:** Developer documentation, troubleshooting guidance, issue resolution
+- **Result:** Closed [issue #4](https://github.com/scs0209/claude-locator/issues/4)
+- [View merge commit](https://github.com/scs0209/claude-locator/commit/8f94447e80e75254706bfa34ac7980528e77c49c)
+- **Maintainer feedback:** Added two platform-specific clarifications to the merged README.
+
+---
+
 ### Music Assistant — Mobile app
 
 **[PR #1295: Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295)** · <strong>Merged October 31, 2026</strong>

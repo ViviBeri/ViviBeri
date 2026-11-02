@@ -173,6 +173,18 @@ Added a practical YAML example for configuring four NSW fuel stations with six f
 - [Read the published documentation](https://www.home-assistant.io/integrations/nsw_fuel_station/)
 - [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
 
+
+### Contribute To This Project — Contributor card
+
+**[PR #4820: Add ViviBeri contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820)** · <strong>Merged October 25, 2026</strong>
+
+Added the ViviBeri contributor card to the project's contributor showcase. The automated workflow validated the submission and merged it into the project's main branch.
+
+- **Contribution:** Open-source contributor profile/card submission
+- **Result:** Merged successfully; contributor card accepted by the project
+- [View the contributor showcase](https://syknapse.github.io/Contribute-To-This-Project)
+
+
 ---
 
 ## GitHub activity

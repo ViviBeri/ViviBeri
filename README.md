@@ -140,21 +140,6 @@ Updated artwork-derived UI tinting for item-description actions, multidisc album
 - [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
 
 
-### claude-locator — Developer tooling
-
-**[PR #6: Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6)** · <strong>Merged October 30, 2026</strong>
-
-Added a dedicated troubleshooting section covering five common setup and usage problems: Option+click not reaching the server, Claude Files pane requirements, Cursor launcher selection, delayed editor tabs, and Astro 7 configuration restarts. The maintainer merged the contribution and added two platform-specific clarifications.
-
-- **Repository:** [scs0209/claude-locator](https://github.com/scs0209/claude-locator)
-- **Contribution:** Developer documentation, troubleshooting guidance, cross-platform setup clarification
-- **Maintainer recognition:** The repository owner described this as the project's first outside contribution and confirmed that it covered everything requested in issue #4.
-- **Validation:** One check passed; merged by the repository owner.
-- [View merge commit](https://github.com/scs0209/claude-locator/commit/8f94447e80e75254706bfa34ac7980528e77c49c)
-- [Original issue #4](https://github.com/scs0209/claude-locator/issues/4) — closed as completed.
-
----
-
 ## GitHub activity
 
 My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.

@@ -4,6 +4,26 @@ A record of contributions made to projects maintained by the wider open-source c
 
 ## Merged contributions
 
+### Home Assistant — NSW Fuel Station documentation
+
+- **Pull request:** [#50087 — Add a multi-station example for NSW Fuel Station](https://github.com/home-assistant/home-assistant.io/pull/50087)
+- **Repository:** [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+- **Status:** Merged and published
+- **Merged on:** November 2, 2026
+- **Merge commit:** [08e4aa19177263d960b278a61770b56dc4e4be12](https://github.com/home-assistant/home-assistant.io/commit/08e4aa19177263d960b278a61770b56dc4e4be12)
+- **Maintainer:** Approved and merged by `frenck`.
+- **Files changed:** 1 (integration documentation)
+- **Validation:** Eight pull-request checks passed. The updated example was also verified on the [published NSW Fuel Station documentation page](https://www.home-assistant.io/integrations/nsw_fuel_station/).
+- **Change summary:**
+  - Added a complete YAML example configuring four NSW fuel stations.
+  - Demonstrated six supported fuel types per station using repeated integration platform entries.
+  - Clarified that sensors are created only when price data is available for a station and fuel type during setup.
+  - Marked station IDs as illustrative and explained that readers must substitute their own station IDs.
+- **Related issue:** [#49757](https://github.com/home-assistant/home-assistant.io/issues/49757).
+
+**Skills demonstrated:** Home Assistant integration research, YAML configuration, schema/source-code validation, technical documentation, review feedback resolution, maintainer collaboration, and CI verification.
+
+
 ### Music Assistant — Mobile app
 
 - **Pull request:** [#1295 — Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295)

@@ -7,6 +7,10 @@ I turn day-to-day needs, ideas, and imagination into live, working projects. I b
 
 **Based in Puducherry, India** · [GitHub](https://github.com/ViviBeri) · [LinkedIn](https://www.linkedin.com/in/berivivi)
 
+<p align="center">
+  <a href="https://github.com/sponsors/ViviBeri"><img src="https://img.shields.io/badge/Sponsor%20my%20work-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor my open-source work on GitHub Sponsors" /></a>
+</p>
+
 ---
 
 ## Project showcase

@@ -7,8 +7,26 @@ I turn day-to-day needs, ideas, and imagination into live, working projects. I b
 
 **Based in Puducherry, India** · [GitHub](https://github.com/ViviBeri) · [LinkedIn](https://www.linkedin.com/in/berivivi)
 
+## Support independent open-source development
+
+I build and maintain practical software that solves real problems—from student tools and Android apps to developer utilities and engineering-focused projects. Sponsorship helps me dedicate more time to improving these projects and keeping useful tools accessible.
+
 <p align="center">
-  <a href="https://github.com/sponsors/ViviBeri"><img src="https://img.shields.io/badge/Sponsor%20my%20work-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor my open-source work on GitHub Sponsors" /></a>
+  <a href="https://github.com/sponsors/ViviBeri">
+    <img src="https://img.shields.io/badge/Become%20a%20Sponsor-Support%20my%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a GitHub Sponsor and support my open-source work" />
+  </a>
+</p>
+
+**What your support helps fund**
+- Ongoing maintenance, bug fixes, and reliability improvements
+- Testing, documentation, and better onboarding for users
+- Development time for new features and practical open-source tools
+- Hosting and infrastructure where a project needs it
+
+Every contribution matters—one-time encouragement and recurring support both help. Sponsorship is voluntary and supports the work; it does not buy influence over project decisions.
+
+<p align="center">
+  <sub>Explore the projects below, then <a href="https://github.com/sponsors/ViviBeri"><strong>support the work on GitHub Sponsors</strong></a>.</sub>
 </p>
 
 ---

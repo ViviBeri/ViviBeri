@@ -4,6 +4,22 @@ A record of contributions made to projects maintained by the wider open-source c
 
 ## Merged contributions
 
+### Contribute To This Project — Contributor card
+
+- **Pull request:** [#4820 — Add ViviBeri contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820)
+- **Repository:** [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+- **Status:** Merged
+- **Merged on:** October 25, 2026
+- **Files changed:** 1 (contributor card: `cards/ViviBeri.html`)
+- **Validation:** The project's GitHub Actions bot accepted the card submission and merged it into `master`.
+- **Change summary:**
+  - Added the ViviBeri contributor card using the project's required card-submission process.
+  - Followed the contributor instructions and kept the change limited to the personal card file.
+  - Made the profile discoverable in the project's [contributor showcase](https://syknapse.github.io/Contribute-To-This-Project/).
+
+**Skills demonstrated:** GitHub workflow, repository contribution guidelines, HTML profile content, pull-request hygiene, and automated contribution validation.
+
+
 ### Home Assistant — NSW Fuel Station documentation
 
 - **Pull request:** [#50087 — Add a multi-station example for NSW Fuel Station](https://github.com/home-assistant/home-assistant.io/pull/50087)

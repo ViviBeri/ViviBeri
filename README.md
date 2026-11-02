@@ -162,6 +162,19 @@ Updated artwork-derived UI tinting for item-description actions, multidisc album
 - [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
 
 
+### Home Assistant — NSW Fuel Station documentation
+
+**[PR #50087: Add a multi-station example for NSW Fuel Station](https://github.com/home-assistant/home-assistant.io/pull/50087)** · <strong>Merged and published November 2, 2026</strong>
+
+Added a practical YAML example for configuring four NSW fuel stations with six fuel types per station. Clarified sensor creation when price data is available and marked the sample station IDs as illustrative. The change was approved and merged by maintainer `frenck`; all eight checks passed, and the updated example is live in the official documentation.
+
+- **Contribution:** Home Assistant integration documentation, YAML configuration, source/schema validation, review feedback, and CI verification
+- [View merge commit](https://github.com/home-assistant/home-assistant.io/commit/08e4aa19177263d960b278a61770b56dc4e4be12)
+- [Read the published documentation](https://www.home-assistant.io/integrations/nsw_fuel_station/)
+- [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
+
+---
+
 ## GitHub activity
 
 My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.

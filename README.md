@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vivian (ViviBeri) 👋
+# Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=White+Hat+Technophile;Android+%26+Web+Developer;Local-first+AI+Builder;Practical+Engineering.+Useful+Software.)](https://git.io/typing-svg)
 

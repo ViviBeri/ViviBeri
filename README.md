@@ -25,7 +25,17 @@ I turn messy, real-world operational problems into clean, reliable software syst
 | [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
 | [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
 | [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
-| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | React · TypeScript · Python |
+| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
+
+## 📝 Engineering Build Logs
+
+Short technical write-ups documenting architecture decisions, implementation trade-offs, verification boundaries, and next engineering steps.
+
+| Project | Build log |
+|---|---|
+| LeadFlow | [Local business discovery on Android](https://github.com/ViviBeri/LeadFlow/blob/main/docs/BUILD_LOG_01_LOCAL_BUSINESS_DISCOVERY.md) |
+| OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
+| GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
 
 ## 🧪 Currently Building
 

@@ -24,7 +24,7 @@ I turn messy, real-world operational problems into clean, reliable software syst
 | [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
 | [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
 | [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
-| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
+| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
 | [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
 
 ## 📝 Engineering Build Logs

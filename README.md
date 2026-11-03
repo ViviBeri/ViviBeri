@@ -68,14 +68,6 @@ flowchart TB
 
 ---
 
-# Bernard Vivian
-### Turning Everyday Needs, Ideas & Imagination into Working Software
-
-I turn day-to-day needs, ideas, and imagination into live, working projects. I build practical web apps, Android tools, AI-assisted workflows, and business solutions—and keep improving them through testing, feedback, and real-world use.
-
-**Current build status:** GradeCalc is improving continuously · LeadFlow is under testing · Nexora AI and OneClick AI Cover are still in development.
-
-**Based in Puducherry, India** · [GitHub](https://github.com/ViviBeri) · [LinkedIn](https://www.linkedin.com/in/berivivi)
 
 ## Support independent open-source development
 

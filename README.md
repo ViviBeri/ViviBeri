@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/banner.svg)
+![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](./assets/banner.svg)
 
 # Hi there 👋
 

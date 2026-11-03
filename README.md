@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/dev-wakes.gif" alt="Developer workspace animation" width="100%" />
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/profile-banner.svg" alt="ViviBeri — Engineering, AI and Open Source" width="100%" />
 
 # Bernard Vivian · ViviBeri
 

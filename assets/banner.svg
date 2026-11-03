@@ -1,66 +1,30 @@
-<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none"
-     xmlns="http://www.w3.org/2000/svg" role="img"
-     aria-label="Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Vivian (ViviBeri)</title>
+  <desc id="desc">Engineer building practical software, Android and web tools, and local-first AI.</desc>
   <defs>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.09"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#132238"/>
+      <stop offset="1" stop-color="#102b25"/>
     </linearGradient>
-    <linearGradient id="glassChip" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.11"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#3fb950"/>
-    </linearGradient>
-    <radialGradient id="blobBlue" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.50"/>
-      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="blobGreen" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.40"/>
-      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="55"/>
-    </filter>
-    <clipPath id="cardClip">
-      <rect x="1" y="1" width="1198" height="338" rx="18"/>
-    </clipPath>
   </defs>
-  <rect x="1" y="1" width="1198" height="338" rx="18"
-        fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <g clip-path="url(#cardClip)">
-    <circle cx="220" cy="130" r="230" fill="url(#blobBlue)" filter="url(#soft)"/>
-    <circle cx="980" cy="250" r="250" fill="url(#blobGreen)" filter="url(#soft)"/>
-    <rect x="48" y="48" width="1104" height="140" rx="16"
-          fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
-    <rect x="48" y="48" width="1104" height="1" fill="#ffffff" fill-opacity="0.25"/>
-    <rect x="56" y="64" width="4" height="108" rx="2" fill="url(#accent)"/>
-    <text x="84" y="112"
-          font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
-          font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Vivian (ViviBeri)</text>
-    <text x="84" y="152"
-          font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
-          font-size="17" fill="#8b949e">White Hat Technophile · Engineer · Android &amp; Web Developer</text>
-    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
-       font-size="15" fill="#c9d1d9" text-anchor="middle">
-      <rect x="48" y="214" width="110" height="40" rx="20"
-            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="103" y="240">Kotlin</text>
-      <rect x="170" y="214" width="100" height="40" rx="20"
-            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="220" y="240">React</text>
-      <rect x="282" y="214" width="130" height="40" rx="20"
-            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="347" y="240">TypeScript</text>
-      <rect x="424" y="214" width="110" height="40" rx="20"
-            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="479" y="240">Python</text>
-      <rect x="546" y="214" width="150" height="40" rx="20"
-            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="621" y="240">Local-first AI</text>
-    </g>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <path d="M760 0H1200V340H930Z" fill="#58a6ff" opacity=".06"/>
+  <path d="M980 0H1200V340H1100Z" fill="#3fb950" opacity=".07"/>
+  <rect x="48" y="48" width="1104" height="140" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".13"/>
+  <rect x="56" y="64" width="4" height="108" rx="2" fill="url(#accent)"/>
+  <text x="84" y="112" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#e6edf3">Vivian (ViviBeri)</text>
+  <text x="84" y="152" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#aab7c4">Engineering · Android &amp; Web · Local-first AI · Open Source</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#dbe6f0" text-anchor="middle">
+    <rect x="48" y="226" width="110" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="103" y="252">Kotlin</text>
+    <rect x="170" y="226" width="100" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="220" y="252">React</text>
+    <rect x="282" y="226" width="130" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="347" y="252">TypeScript</text>
+    <rect x="424" y="226" width="110" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="479" y="252">Python</text>
+    <rect x="546" y="226" width="150" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="621" y="252">Local-first AI</text>
   </g>
+  <path d="M48 304H1152" stroke="url(#accent)" stroke-width="2" opacity=".75"/>
 </svg>

@@ -1,3 +1,73 @@
+<!--
+  ViviBeri profile README
+  Design direction: ruvnet-inspired engineering portfolio, adapted to real projects and verified work.
+-->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/dev-wakes.gif" alt="Developer workspace animation" width="100%" />
+
+# Bernard Vivian · ViviBeri
+
+### Engineering practical software, AI-assisted tools & open-source improvements
+
+Building useful products across **web · Android · AI workflows · engineering tools**.
+
+<a href="https://github.com/ViviBeri"><img src="https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/berivivi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/sponsors/ViviBeri"><img src="https://img.shields.io/badge/Sponsor-Open%20Source-EA4AAA?style=for-the-badge&logo=githubsponsors" alt="Sponsor" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=ViviBeri&style=flat-square&color=blueviolet" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ViviBeri?style=flat-square&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/ViviBeri?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars" alt="GitHub stars" />
+
+</div>
+
+---
+
+## Explore this portfolio
+
+| Area | What you'll find |
+|---|---|
+| [Project ecosystem](#project-ecosystem) | Live products, experiments, and engineering tools |
+| [Featured projects](#project-showcase) | GradeCalc, LeadFlow, Nexora AI, OneClick AI Cover, KVB |
+| [Engineering practice](#engineering-in-practice) | Technologies, testing, delivery, and implementation |
+| [Open-source work](#open-source-contributions) | Merged contributions and maintainer-reviewed changes |
+| [Activity](#github-activity) | Contribution history and development activity |
+| [Contact](#contact) | Collaboration and professional links |
+
+## Project ecosystem
+
+I build independent projects around practical problems. The diagram below is a portfolio map showing each project's purpose; it does not imply that these applications are already integrated with one another.
+
+```mermaid
+flowchart TB
+    V["ViviBeri · Engineering Portfolio"]
+    V --> P["Practical software"]
+    V --> A["AI-assisted workflows"]
+    V --> O["Open-source contributions"]
+    P --> G["GradeCalc · Student calculations"]
+    P --> L["LeadFlow · Android lead management"]
+    P --> K["KVB Enterprises · Business website"]
+    A --> N["Nexora AI · Human-reviewed workspace"]
+    A --> C["OneClick AI Cover · Local audio workflow"]
+    O --> H["Home Assistant"]
+    O --> M["Music Assistant"]
+    O --> D["Developer tools & documentation"]
+```
+
+### Current project status
+
+| Project | Current state | Entry point |
+|---|---|---|
+| GradeCalc | Live · actively improving | [Open app](https://gradecalc-sgc.netlify.app/) |
+| LeadFlow | Under testing | [Repository](https://github.com/ViviBeri/LeadFlow) |
+| Nexora AI | In development · private repository | [Repository](https://github.com/ViviBeri/nexora-ai) |
+| OneClick AI Cover | In development · local desktop workflow | [Repository](https://github.com/ViviBeri/OneClick-AI-Cover) |
+| KVB Enterprises | Live website | [Open website](https://viviberi.github.io/tax-business/) |
+
+---
+
 # Bernard Vivian
 ### Turning Everyday Needs, Ideas & Imagination into Working Software
 

@@ -42,7 +42,7 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 ![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViviBeri&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[Explore contribution activity on GitHub](https://github.com/ViviBeri?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
@@ -102,4 +102,4 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 </div>
 
-![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Glassmorphism footer](./assets/footer.svg)

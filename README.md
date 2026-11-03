@@ -203,6 +203,14 @@ I prefer evidence in the code over long lists of technology badges. Examples fro
 
 *The timeline represents the working approach behind the projects and contributions below; it is not a live activity feed.*
 
+## Engineering journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/engineering-journey.svg" alt="Animated engineering journey: build, verify, contribute, and improve" width="100%" />
+</p>
+
+*The timeline represents the working approach behind the projects and contributions below; it is not a live activity feed.*
+
 ## Open-source contributions
 
 I contribute improvements to established open-source projects through focused code changes, maintainer feedback, and verified CI checks.

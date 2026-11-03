@@ -1,1 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vivian — Operations, IT, Builder"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="name"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ba6c9" stroke-opacity=".12"/></pattern></defs><style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.glow{animation:pulse 5s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.12}50%{opacity:.32}}@media(prefers-reduced-motion:reduce){.glow{animation:none}}</style><rect width="1200" height="320" rx="26" fill="url(#bg)"/><rect width="1200" height="320" rx="26" fill="url(#grid)"/><circle class="glow" cx="190" cy="70" r="190" fill="#06b6d4"/><circle class="glow" cx="1010" cy="250" r="200" fill="#c026d3"/><rect x="2" y="2" width="1196" height="316" rx="24" fill="none" stroke="url(#name)" stroke-opacity=".65" stroke-width="2" stroke-dasharray="12 8"/><path d="M28 58V28H58M1142 28H1172V58M28 262V292H58M1142 292H1172V262" fill="none" stroke="url(#name)" stroke-width="3"/><text x="600" y="78" text-anchor="middle" fill="#67e8f9" font-size="15" letter-spacing="8">&gt; HELLO, WORLD</text><text x="600" y="176" text-anchor="middle" fill="url(#name)" font-size="88" font-weight="800" letter-spacing="15">VIVIAN</text><text x="600" y="226" text-anchor="middle" fill="#e2e8f0" font-size="23" letter-spacing="7">OPERATIONS · IT · BUILDER</text><text x="600" y="267" text-anchor="middle" fill="#94a3b8" font-size="15" letter-spacing="3">PUDUCHERRY, INDIA  //  SITE OPERATIONS · SOFTWARE</text></svg>
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="glassChip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+    <radialGradient id="blobBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobGreen" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="1198" height="338" rx="18"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="18"
+        fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g clip-path="url(#cardClip)">
+    <circle cx="220" cy="130" r="230" fill="url(#blobBlue)" filter="url(#soft)"/>
+    <circle cx="980" cy="250" r="250" fill="url(#blobGreen)" filter="url(#soft)"/>
+    <rect x="48" y="48" width="1104" height="140" rx="16"
+          fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+    <rect x="48" y="48" width="1104" height="1" fill="#ffffff" fill-opacity="0.25"/>
+    <rect x="56" y="64" width="4" height="108" rx="2" fill="url(#accent)"/>
+    <text x="84" y="112"
+          font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+          font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Vivian (ViviBeri)</text>
+    <text x="84" y="152"
+          font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+          font-size="17" fill="#8b949e">White Hat Technophile · Engineer · Android &amp; Web Developer</text>
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+       font-size="15" fill="#c9d1d9" text-anchor="middle">
+      <rect x="48" y="214" width="110" height="40" rx="20"
+            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="103" y="240">Kotlin</text>
+      <rect x="170" y="214" width="100" height="40" rx="20"
+            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="220" y="240">React</text>
+      <rect x="282" y="214" width="130" height="40" rx="20"
+            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="347" y="240">TypeScript</text>
+      <rect x="424" y="214" width="110" height="40" rx="20"
+            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="479" y="240">Python</text>
+      <rect x="546" y="214" width="150" height="40" rx="20"
+            fill="url(#glassChip)" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="621" y="240">Local-first AI</text>
+    </g>
+  </g>
+</svg>

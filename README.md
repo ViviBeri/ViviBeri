@@ -2,9 +2,9 @@
 
 # Hi, I'm Vivian (ViviBeri) 👋
 
-**White Hat Technophile · Engineer · Android & Web Developer · AI Enthusiast · Open Source Contributor**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=White+Hat+Technophile;Android+%26+Web+Developer;Local-first+AI+Builder;Practical+Engineering.+Useful+Software.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:164e63,100:6d28d9&height=220&section=header&text=BUILDING%20PRACTICAL%20SYSTEMS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Engineering%20%C3%97%20Software%20%C3%97%20Local-first%20AI&descAlignY=60&descSize=14" width="100%" alt="Animated header: Building practical systems"/>
+![Animated header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vivian%20(ViviBeri)&fontSize=42&fontAlignY=32&animation=twinkling)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
@@ -33,6 +33,18 @@ I turn messy, real-world operational problems into clean, reliable software syst
 - **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
 - **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
 - **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
+
+## ✨ Live GitHub Activity
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg)
+
+![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViviBeri&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -89,3 +101,5 @@ I bring a mechanical and operations-engineering perspective to software: underst
 *Practical engineering. Useful software. Continuous improvement.*
 
 </div>
+
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)

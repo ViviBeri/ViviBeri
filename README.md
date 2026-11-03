@@ -90,18 +90,22 @@ Every contribution matters—one-time encouragement and recurring support both h
 
 ## Project showcase
 
-Each project card links directly to its live product or source repository.
+Each project card links directly to its live product or source repository. The cards are stacked at full available width so the artwork and labels remain readable on phones as well as desktop.
 
 <p align="center">
-  <a href="https://gradecalc-sgc.netlify.app/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/gradecalc.svg" alt="GradeCalc project cover — live SGPA and CGPA calculator" width="48%" /></a>
-  <a href="https://github.com/ViviBeri/LeadFlow"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/leadflow.svg" alt="LeadFlow project cover — Android lead management, under testing" width="48%" /></a>
+  <a href="https://gradecalc-sgc.netlify.app/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/gradecalc.svg" alt="GradeCalc project cover — live SGPA and CGPA calculator" width="100%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ViviBeri/nexora-ai"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/nexora.svg" alt="Nexora AI project cover — human-reviewed AI workspace, in development" width="48%" /></a>
-  <a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover project cover — local audio workflow, in development" width="48%" /></a>
+  <a href="https://github.com/ViviBeri/LeadFlow"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/leadflow.svg" alt="LeadFlow project cover — Android lead management, under testing" width="100%" /></a>
 </p>
 <p align="center">
-  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/kvb-enterprises.svg" alt="KVB ENTERPRISES — live business services website" width="48%" /></a>
+  <a href="https://github.com/ViviBeri/nexora-ai"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/nexora.svg" alt="Nexora AI project cover — human-reviewed AI workspace, in development" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover project cover — local audio workflow, in development" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/kvb-enterprises.svg" alt="KVB ENTERPRISES — live business services website" width="100%" /></a>
 </p>
 
 *Project covers are visual summaries, not screenshots of running interfaces. Open each project to explore the app or source code.*

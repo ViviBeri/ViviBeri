@@ -1,290 +1,153 @@
-<!--
-  ViviBeri profile README
-  Design direction: ruvnet-inspired engineering portfolio, adapted to real projects and verified work.
--->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/profile-banner.svg" alt="ViviBeri — Engineering, AI and Open Source" width="100%" />
+<img src="assets/banner.svg" alt="Vivian — Operations, IT, Builder" width="100%"/>
 
-# Bernard Vivian
+<br/>
 
-### Engineering practical software, AI-assisted tools & open-source improvements
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+practical+software;Turning+operations+experience+into+useful+tools;Contributing+to+open+source)](https://github.com/ViviBeri)
 
-Building useful products across **web · Android · AI workflows · engineering tools**.
+<br/>
 
-<a href="https://github.com/ViviBeri"><img src="https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/berivivi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://github.com/sponsors/ViviBeri"><img src="https://img.shields.io/badge/Sponsor-Open%20Source-EA4AAA?style=for-the-badge&logo=githubsponsors" alt="Sponsor" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=ViviBeri&style=flat-square&color=blueviolet" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ViviBeri?style=flat-square&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/ViviBeri?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars" alt="GitHub stars" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berivivi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berivivi)
+[![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Visit%20site-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viviberi.github.io/tax-business)
+[![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViviBeri)
+![Location](https://img.shields.io/badge/Puducherry-India-f472b6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
----
-
-## Explore this portfolio
-
-- [Project ecosystem](#project-ecosystem) — live products, experiments, and engineering tools
-- [Featured projects](#project-showcase) — GradeCalc, LeadFlow, Nexora AI, OneClick AI Cover, and KVB
-- [Engineering practice](#engineering-in-practice) — technologies, testing, and delivery
-- [Open-source work](#open-source-contributions) — merged contributions and maintainer-reviewed changes
-- [Activity](#github-activity) — contribution history and development activity
-- [Contact](#contact) — collaboration and professional links
-
-## Project ecosystem
-
-I build independent projects around practical problems. The diagram below is a portfolio map showing each project's purpose; it does not imply that these applications are already integrated with one another.
-
-```mermaid
-flowchart TB
-    V["ViviBeri · Engineering Portfolio"]
-    V --> P["Practical software"]
-    V --> A["AI-assisted workflows"]
-    V --> O["Open-source contributions"]
-    P --> G["GradeCalc · Student calculations"]
-    P --> L["LeadFlow · Android lead management"]
-    P --> K["KVB Enterprises · Business website"]
-    A --> N["Nexora AI · Human-reviewed workspace"]
-    A --> C["OneClick AI Cover · Local audio workflow"]
-    O --> H["Home Assistant"]
-    O --> M["Music Assistant"]
-    O --> D["Developer tools & documentation"]
-```
-
-### Current project status
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- **GradeCalc** — Live and actively improving · [Open app](https://gradecalc-sgc.netlify.app/)
-- **LeadFlow** — Under testing · [Repository](https://github.com/ViviBeri/LeadFlow)
-- **Nexora AI** — In development; private repository · [Repository](https://github.com/ViviBeri/nexora-ai)
-- **OneClick AI Cover** — In development; local desktop workflow · [Repository](https://github.com/ViviBeri/OneClick-AI-Cover)
-- **KVB ENTERPRISES** — Live website · [Open website](https://viviberi.github.io/tax-business/)
-
----
+## 👋 About
 
-## Support independent open-source development
+I work across **site operations, HVAC and electrical infrastructure, IT administration, and practical software development**. My background combines large-facility operations and contractor-side service delivery with building Android apps, web tools, and open-source projects.
 
-I build and maintain practical software that solves real problems—from student tools and Android apps to developer utilities and engineering-focused projects. Sponsorship helps me dedicate more time to improving these projects and keeping useful tools accessible.
+> **Focus:** practical engineering, useful software, reliable operations, and continuous improvement.
 
-<p align="center">
-  <a href="https://github.com/sponsors/ViviBeri">
-    <img src="https://img.shields.io/badge/Become%20a%20Sponsor-Support%20my%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a GitHub Sponsor and support my open-source work" />
-  </a>
-</p>
-
-**What your support helps fund**
-- Ongoing maintenance, bug fixes, and reliability improvements
-- Testing, documentation, and better onboarding for users
-- Development time for new features and practical open-source tools
-- Hosting and infrastructure where a project needs it
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Every contribution matters—one-time encouragement and recurring support both help. Sponsorship is voluntary and supports the work; it does not buy influence over project decisions.
-
-<p align="center">
-  <sub>Explore the projects below, then <a href="https://github.com/sponsors/ViviBeri"><strong>support the work on GitHub Sponsors</strong></a>.</sub>
-</p>
+**🏗️ Operations**
+- HVAC and electrical infrastructure
+- Facility and site operations
+- Contractor and vendor coordination
+- IT administration and networking
 
----
+</td>
+<td width="50%" valign="top">
 
-## Project showcase
+**💻 Building**
+- Android development with Kotlin
+- React, TypeScript and Python
+- Local-first AI and audio tooling
+- GitHub Actions and automation
 
-Each project card links directly to its live product or source repository. The cards are stacked at full available width so the artwork and labels remain readable on phones as well as desktop.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://gradecalc-sgc.netlify.app/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/gradecalc.svg" alt="GradeCalc project cover — live SGPA and CGPA calculator" width="100%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ViviBeri/LeadFlow"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/leadflow.svg" alt="LeadFlow project cover — Android lead management, under testing" width="100%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ViviBeri/nexora-ai"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/nexora.svg" alt="Nexora AI project cover — human-reviewed AI workspace, in development" width="100%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover project cover — local audio workflow, in development" width="100%" /></a>
-</p>
-<p align="center">
-  <a href="https://viviberi.github.io/tax-business/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/kvb-enterprises.svg" alt="KVB ENTERPRISES — live business services website" width="100%" /></a>
-</p>
+**🏢 Business**
+- KVB Enterprises
+- Government contracting
+- GST, ITR and FSSAI services
+- HVAC and electrical support
 
-*Project covers are visual summaries, not screenshots of running interfaces. Open each project to explore the app or source code.*
+</td>
+<td width="50%" valign="top">
 
----
+**🌐 Open source**
+- Documentation improvements
+- Bug fixes and focused features
+- CI validation and maintainer feedback
+- Public project development
 
-## Selected work
+</td>
+</tr>
+</table>
 
-### GradeCalc — SGPA & CGPA Calculator
-A continuously improving calculator for SGC Pondicherry students. It supports credit-weighted SGPA, semester-based CGPA, grade conversion, and an installable PWA experience with offline support. I refine it day by day as I find better ways to solve students’ real needs.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- **[Open the live app](https://gradecalc-sgc.netlify.app/)**
-- [Source code](https://github.com/ViviBeri/gradecalc-app)
-- [Calculation tests](https://github.com/ViviBeri/gradecalc-app/blob/main/tests.js)
-- **Engineering focus:** grade boundaries, credit-weighted calculations, absent/failed subjects, input validation, installability, and offline behavior.
-- **Stack:** HTML, CSS, JavaScript, PWA manifest, service worker, Node.js test runner.
-- **Status:** Live and actively improving.
+## 🚀 Projects
 
-### OneClick AI Cover — Local AI audio workflow
+| Project | What it does | Status |
+| ------- | ------------ | ------ |
+| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services website for tax, registration, compliance, HVAC and electrical support | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
+| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | Student-focused SGPA, CGPA and academic planning calculator | ![Active development](https://img.shields.io/badge/-Active%20development-3b82f6?style=flat-square) |
+| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow | ![Testing](https://img.shields.io/badge/-Testing-f59e0b?style=flat-square) |
+| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace with revision history and local-first AI direction | ![In development](https://img.shields.io/badge/-In%20development-a78bfa?style=flat-square) |
+| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing and export | ![In verification](https://img.shields.io/badge/-In%20verification-f59e0b?style=flat-square) |
 
-A free, open-source, Windows-first desktop project designed to separate vocals from a track, convert vocals with an authorized RVC voice model, remix them with the instrumental, and export audio locally—without paid APIs or cloud inference.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- [Source code](https://github.com/ViviBeri/OneClick-AI-Cover)
-- [Verification plan](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/verification.md)
-- [Latest Windows CI run](https://github.com/ViviBeri/OneClick-AI-Cover/actions/workflows/windows-checks.yml)
-- **Engineering focus:** local audio-processing workflow, Demucs vocal separation, RVC CLI integration, audio mixing/export, managed setup, and automated smoke checks.
-- **Stack:** Python, Gradio, Demucs, RVC integration, FFmpeg, GitHub Actions.
-- **Status:** Still in development. CI smoke checks pass, but clean-machine installer validation and complete end-to-end conversion are not yet verified. This is a local desktop application, not a hosted browser demo.
+## 🧩 How the pieces fit
 
-### LeadFlow — Android lead management
+**Operations experience informs the tools I build. Business services apply that experience in the field. Software and open-source work turn repeatable problems into reusable solutions.**
 
-An Android app for managing business leads and following up through WhatsApp. It is designed around manual, user-controlled outreach, with local lead storage and export options.
+| Layer | Systems | Responsibility |
+| ----- | ------- | -------------- |
+| Field operations | HVAC, electrical and facility maintenance | Keep infrastructure running and documented |
+| Business | KVB Enterprises | Contracting and business compliance services |
+| Software | Android apps, web tools and local AI projects | Reduce repetitive work and improve workflows |
+| Open source | GitHub projects and community contributions | Share fixes, documentation and tested improvements |
 
-- [Source code](https://github.com/ViviBeri/LeadFlow)
-- **Engineering focus:** Kotlin and Jetpack Compose UI, Room database, lead search and management, CSV/XLSX/PDF export, and WhatsApp link handoff without scraping or automatic message sending.
-- **Stack:** Kotlin, Jetpack Compose, Room, Android.
-- **Status:** Under testing — still being validated before it is presented as a finished release.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### KVB ENTERPRISES — Business services website
-A live website for a local business offering tax and registration assistance. The site includes service information, English/Tamil content, location pages, and enquiry-focused flows.
+## 🎓 Engineering background
 
-- **[Visit the live website](https://viviberi.github.io/tax-business/)**
-- [Source code](https://github.com/ViviBeri/tax-business)
-- **Engineering focus:** responsive static pages, service-oriented navigation, bilingual content, SEO basics, and lead-generation interactions.
-- **Stack:** HTML, CSS, JavaScript, Python build tooling, GitHub Pages.
+- **M.Sc. Manufacturing Processing**
+- **B.Tech Mechanical Engineering**
+- **Diploma in Mechanical Engineering**
+- **Additional learning:** IBM cybersecurity and generative AI coursework
 
-### Nexora AI — AI-assisted workspace
-An AI-assisted workspace for coordinating tasks with human review, version history, and explicit approval before finalization. The current milestone includes a React/TypeScript dashboard and a FastAPI prototype with SQLite persistence.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- [Repository](https://github.com/ViviBeri/nexora-ai) *(private repository; access may be required)*
-- **Engineering focus:** separating the UI and API, persistence, and keeping human approval in the workflow.
-- **Stack:** React, TypeScript, FastAPI, SQLite.
-- **Status:** Still in development. Full local workflow validation, authentication/authorization, and deployment hardening remain before production use.
+## 🛠️ Tools and technologies
 
----
+<div align="center">
 
-## Engineering in practice
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-I prefer evidence in the code over long lists of technology badges. Examples from the projects above:
+</div>
 
-- **Frontend delivery:** build and maintain responsive web interfaces with HTML, CSS, and JavaScript.
-- **Offline-first behavior:** use a PWA manifest and service worker to support installation and offline use in GradeCalc.
-- **Calculation correctness:** maintain automated tests for grade boundaries, absent/failed subjects, credit-weighted SGPA, and CGPA behavior in GradeCalc.
-- **Deployment:** publish working static sites through Netlify and GitHub Pages.
-- **Workflow automation:** maintain GitHub Actions workflows for repository automation.
-- **Backend engineering:** develop Nexora AI with a React/TypeScript frontend and a FastAPI/SQLite backend.
-- **Android app development:** build LeadFlow with Kotlin, Jetpack Compose, and Room while testing the lead-management and export workflows.
-- **Local AI/audio tooling:** integrate audio-processing components in OneClick AI Cover and clearly separate CI smoke checks from full product verification.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### Tools and technologies used
+## 🌱 Open-source contributions
 
-**Web:** HTML · CSS · JavaScript  
-**PWA & mobile:** Progressive Web Apps · Service Workers · Android app packaging  
-**Backend & data:** Python · FastAPI · SQLite · TypeScript · React  
-**Engineering workflow:** Git · GitHub · GitHub Actions · Node.js testing · Netlify · GitHub Pages
+I contribute focused improvements to established projects through documentation, code changes, maintainer feedback, and verified CI checks.
 
-*These are technologies used in the projects above, not a claim of equal depth or professional certification in every tool.*
+- [claude-locator — README troubleshooting documentation](https://github.com/scs0209/claude-locator/pull/6) — merged.
+- [Music Assistant — mobile app artwork color improvement](https://github.com/music-assistant/frontend/pull/1295) — merged.
+- [Home Assistant — documentation contribution](https://github.com/home-assistant/home-assistant.io/pull/50087) — merged.
+- [Contributor card improvement](https://github.com/home-assistant/home-assistant.io/pull/4820) — contribution recorded.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## How I approach projects
+## 📊 GitHub activity
 
-1. **Start with a real need** — define the user and the job the software should do.
-2. **Build the smallest useful version** — prioritize the core workflow over decorative features.
-3. **Validate behavior** — test important calculations and edge cases, then fix what fails.
-4. **Ship and improve** — deploy the result, document limitations, and iterate based on actual use.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 
-## Engineering journey
+<img src="https://github-profile-trophy.vercel.app/?username=ViviBeri&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/engineering-journey.svg" alt="Animated engineering journey: build, verify, contribute, and improve" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
 
-*The timeline represents the working approach behind the projects and contributions below; it is not a live activity feed.*
+</div>
 
-## Open-source contributions
+<div align="center">
 
-I contribute improvements to established open-source projects through focused code changes, maintainer feedback, and verified CI checks.
+*Building in public, one useful improvement at a time.*
 
-### claude-locator — README troubleshooting documentation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=110&section=footer" width="100%" alt=""/>
 
-**[PR #6: Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6)** · <strong>Merged October 30, 2026</strong>
-
-Added a dedicated troubleshooting section consolidating five common setup and usage issues: Option+click not reaching the server, Claude Files pane requirements, Cursor launcher selection, delayed editor tabs, and Astro 7 configuration restarts. The repository owner described it as the project's **first outside contribution** and merged it.
-
-- **Repository:** [scs0209/claude-locator](https://github.com/scs0209/claude-locator)
-- **Contribution:** Developer documentation, troubleshooting guidance, issue resolution
-- **Result:** Closed [issue #4](https://github.com/scs0209/claude-locator/issues/4)
-- [View merge commit](https://github.com/scs0209/claude-locator/commit/8f94447e80e75254706bfa34ac7980528e77c49c)
-- **Maintainer feedback:** Added two platform-specific clarifications to the merged README.
-
----
-
-### Music Assistant — Mobile app
-
-**[PR #1295: Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295)** · <strong>Merged October 31, 2026</strong>
-
-Updated artwork-derived UI tinting for item-description actions, multidisc album headers, artist-page “View all” buttons, and the audiobook current-chapter indicator/title. The change was maintainer-approved, and Build, Compile, and Detekt checks passed.
-
-- **Technologies:** Kotlin, Jetpack Compose
-- **Contribution:** UI theming, dynamic artwork colors, component updates, review feedback, CI verification
-- [View merge commit](https://github.com/music-assistant/mobile-app/commit/d4a7256c3b6a8c8ef3d30f986d4ac90e4e9c86bc)
-- [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
-
-### Home Assistant — NSW Fuel Station documentation
-
-**[PR #50087: Add a multi-station example for NSW Fuel Station](https://github.com/home-assistant/home-assistant.io/pull/50087)** · <strong>Merged and published November 2, 2026</strong>
-
-Added a practical YAML example for configuring four NSW fuel stations with six fuel types per station. Clarified sensor creation when price data is available and marked the sample station IDs as illustrative. The change was approved and merged by maintainer `frenck`; all eight checks passed, and the updated example is live in the official documentation.
-
-- **Contribution:** Home Assistant integration documentation, YAML configuration, source/schema validation, review feedback, and CI verification
-- [View merge commit](https://github.com/home-assistant/home-assistant.io/commit/08e4aa19177263d960b278a61770b56dc4e4be12)
-- [Read the published documentation](https://www.home-assistant.io/integrations/nsw_fuel_station/)
-- [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
-
-### Contribute To This Project — Contributor card
-
-**[PR #4820: Add ViviBeri contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820)** · <strong>Merged October 25, 2026</strong>
-
-Added the ViviBeri contributor card to the project's contributor showcase. The automated workflow validated the submission and merged it into the project's main branch.
-
-- **Contribution:** Open-source contributor profile/card submission
-- **Result:** Merged successfully; contributor card accepted by the project
-- [View the contributor showcase](https://syknapse.github.io/Contribute-To-This-Project)
-
-
----
-
-## GitHub activity
-
-A visual snapshot of my public GitHub activity. The contribution visuals are generated automatically; project links and merged pull requests remain the primary evidence of my work.
-
-### 3D contribution calendar
-
-<!-- Generated daily by .github/workflows/profile-3d.yml; dark green theme -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg"
-    alt="Dark green 3D GitHub contribution calendar"
-    width="100%"
-  />
-</p>
-
-### Contribution snake
-
-<!-- Contribution Snake: keep the existing green contribution animation -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg?v=2"
-    alt="Green GitHub contribution graph animation"
-    width="100%"
-  />
-</p>
-
-## Contact
-
-I'm interested in practical web and mobile projects, useful developer tools, and collaborations where clear implementation and reliability matter.
-
-- [Connect on LinkedIn](https://www.linkedin.com/in/berivivi)
-- [Browse all repositories](https://github.com/ViviBeri?tab=repositories)
+</div>

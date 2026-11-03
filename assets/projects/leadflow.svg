@@ -1,12 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-<title id="title">LeadFlow</title><desc id="desc">Illustrated cover for LeadFlow Android lead management.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#172b3b"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1200" height="560" rx="28" fill="url(#bg)"/><style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.float{transform-box:fill-box;transform-origin:center;animation:depth-float 7s ease-in-out infinite}.ambient{animation:ambient-pulse 8s ease-in-out infinite}@keyframes depth-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes ambient-pulse{0%,100%{opacity:.55}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.float,.ambient{animation:none}}</style><ellipse class="ambient" cx="980" cy="240" rx="330" ry="270" fill="#60a5fa" opacity=".09"/><path d="M700 40L1150 40L1150 500L700 500Z" fill="none" stroke="#60a5fa" stroke-opacity=".1" stroke-width="2"/><circle cx="1030" cy="65" r="210" fill="#60a5fa" opacity=".10"/><circle cx="1100" cy="500" r="240" fill="#a78bfa" opacity=".10"/>
-<rect x="54" y="54" width="12" height="452" rx="6" fill="url(#accent)"/>
-<text x="98" y="118" fill="#60a5fa" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4">ANDROID · UNDER TESTING</text>
-<text x="98" y="198" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">LeadFlow</text>
-<text x="100" y="244" fill="#b8c6d6" font-family="Arial,Helvetica,sans-serif" font-size="25">Organize leads. Follow up manually.</text>
-<g class="float" transform="translate(770 95)"><rect x="0" y="0" width="330" height="370" rx="26" fill="#111f2f" stroke="#33475d" stroke-width="3"/><text x="30" y="46" fill="#e5edf6" font-family="Arial" font-size="25" font-weight="700">Leads</text><rect x="28" y="66" width="274" height="42" rx="12" fill="#1b3042"/><circle cx="48" cy="87" r="7" fill="#60a5fa"/><text x="65" y="93" fill="#9eb1c5" font-family="Arial" font-size="15">Search contacts...</text><rect x="28" y="128" width="274" height="60" rx="13" fill="#192c3e"/><circle cx="56" cy="158" r="16" fill="#1d4ed8"/><text x="84" y="154" fill="#e6eef7" font-family="Arial" font-size="17" font-weight="700">New enquiry</text><text x="84" y="175" fill="#91a7bc" font-family="Arial" font-size="13">WhatsApp handoff</text><rect x="28" y="200" width="274" height="60" rx="13" fill="#192c3e"/><circle cx="56" cy="230" r="16" fill="#6d28d9"/><text x="84" y="226" fill="#e6eef7" font-family="Arial" font-size="17" font-weight="700">Follow-up</text><text x="84" y="247" fill="#91a7bc" font-family="Arial" font-size="13">Reminder due</text><rect x="28" y="272" width="274" height="60" rx="13" fill="#192c3e"/><circle cx="56" cy="302" r="16" fill="#0f766e"/><text x="84" y="298" fill="#e6eef7" font-family="Arial" font-size="17" font-weight="700">Documents sent</text><text x="84" y="319" fill="#91a7bc" font-family="Arial" font-size="13">Export ready</text></g>
-<text x="98" y="492" fill="#8da1b5" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="2">BERNARD VIVIAN  /  PROJECT PORTFOLIO</text>
+<title id="title">LeadFlow — project portfolio</title><desc id="desc">Android lead management and local place discovery project artwork.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset=".55" stop-color="#10243a"/><stop offset="1" stop-color="#182b42"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#102b3c"/><stop offset="1" stop-color="#0d1728"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.pulse{animation:pulse 4s ease-in-out infinite}.dash{stroke-dasharray:12 10;animation:dash 12s linear infinite}@keyframes pulse{0%,100%{opacity:.18}50%{opacity:.34}}@keyframes dash{to{stroke-dashoffset:-220}}@media(prefers-reduced-motion:reduce){.pulse,.dash{animation:none}}</style>
+<rect width="1200" height="560" rx="28" fill="url(#bg)"/><circle class="pulse" cx="1010" cy="150" r="260" fill="#60a5fa" opacity=".18"/><circle class="pulse" cx="1080" cy="510" r="220" fill="#a78bfa" opacity=".13"/>
+<path d="M54 54V506" stroke="url(#accent)" stroke-width="9" stroke-linecap="round"/>
+<text x="98" y="125" fill="#60a5fa" font-size="20" font-weight="750" letter-spacing="3">ANDROID · UNDER TESTING</text>
+<text x="96" y="220" fill="#f8fafc" font-size="62" font-weight="800">LeadFlow</text>
+<text x="100" y="278" fill="#d4dfed" font-size="25">Organize leads. Follow up manually.</text>
+<text x="100" y="330" fill="#a78bfa" font-size="17" font-weight="750" letter-spacing="1.4">DISCOVER  ·  SAVE  ·  FOLLOW UP</text>
+<rect x="100" y="374" width="510" height="2" fill="#7890aa" opacity=".25"/>
+<text x="100" y="450" fill="#8fa5bd" font-size="15" letter-spacing="2">BERNARD VIVIAN  /  PROJECT PORTFOLIO</text>
+<rect x="700" y="92" width="430" height="360" rx="28" fill="#020817" opacity=".35" filter="url(#glow)"/>
+<rect x="720" y="78" width="410" height="360" rx="24" fill="url(#panel)" stroke="#60a5fa" stroke-opacity=".6" stroke-width="2"/>
+<rect x="748" y="106" width="354" height="54" rx="13" fill="#60a5fa" opacity=".14"/>
+<circle cx="772" cy="133" r="7" fill="#60a5fa"/><circle cx="795" cy="133" r="7" fill="#a78bfa"/>
+<text x="818" y="140" fill="#f1f5f9" font-size="18" font-weight="700">LEAD PIPELINE</text>
+<text x="750" y="218" fill="#f8fafc" font-size="23" font-weight="750">12 ACTIVE LEADS</text>
+<path d="M750 244H1100" stroke="#8ba1bc" stroke-opacity=".3"/>
+<rect x="750" y="270" width="350" height="72" rx="14" fill="#0b1729" stroke="#60a5fa" stroke-opacity=".45"/>
+<text x="774" y="312" fill="#60a5fa" font-size="18" font-weight="700">FOLLOW-UP  04 DUE</text>
+<path class="dash" d="M752 388H1098" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
 </svg>

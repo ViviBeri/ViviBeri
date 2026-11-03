@@ -255,22 +255,12 @@ A visual snapshot of my public GitHub activity. The contribution visuals are gen
 
 ### 3D contribution calendar
 
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
+<!-- Generated daily by .github/workflows/profile-3d.yml; dark green theme -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-green-animate.svg"
-    alt="Animated 3D GitHub contribution calendar"
+    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg"
+    alt="Dark green 3D GitHub contribution calendar"
     width="100%"
-  />
-</p>
-
-### Contribution streak
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile/streak.svg"
-    alt="GitHub contribution streak statistics"
-    width="70%"
   />
 </p>
 

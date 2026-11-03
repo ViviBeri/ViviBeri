@@ -27,14 +27,12 @@ Building useful products across **web · Android · AI workflows · engineering 
 
 ## Explore this portfolio
 
-| Area | What you'll find |
-|---|---|
-| [Project ecosystem](#project-ecosystem) | Live products, experiments, and engineering tools |
-| [Featured projects](#project-showcase) | GradeCalc, LeadFlow, Nexora AI, OneClick AI Cover, KVB |
-| [Engineering practice](#engineering-in-practice) | Technologies, testing, delivery, and implementation |
-| [Open-source work](#open-source-contributions) | Merged contributions and maintainer-reviewed changes |
-| [Activity](#github-activity) | Contribution history and development activity |
-| [Contact](#contact) | Collaboration and professional links |
+- [Project ecosystem](#project-ecosystem) — live products, experiments, and engineering tools
+- [Featured projects](#project-showcase) — GradeCalc, LeadFlow, Nexora AI, OneClick AI Cover, and KVB
+- [Engineering practice](#engineering-in-practice) — technologies, testing, and delivery
+- [Open-source work](#open-source-contributions) — merged contributions and maintainer-reviewed changes
+- [Activity](#github-activity) — contribution history and development activity
+- [Contact](#contact) — collaboration and professional links
 
 ## Project ecosystem
 
@@ -58,16 +56,13 @@ flowchart TB
 
 ### Current project status
 
-| Project | Current state | Entry point |
-|---|---|---|
-| GradeCalc | Live · actively improving | [Open app](https://gradecalc-sgc.netlify.app/) |
-| LeadFlow | Under testing | [Repository](https://github.com/ViviBeri/LeadFlow) |
-| Nexora AI | In development · private repository | [Repository](https://github.com/ViviBeri/nexora-ai) |
-| OneClick AI Cover | In development · local desktop workflow | [Repository](https://github.com/ViviBeri/OneClick-AI-Cover) |
-| KVB Enterprises | Live website | [Open website](https://viviberi.github.io/tax-business/) |
+- **GradeCalc** — Live and actively improving · [Open app](https://gradecalc-sgc.netlify.app/)
+- **LeadFlow** — Under testing · [Repository](https://github.com/ViviBeri/LeadFlow)
+- **Nexora AI** — In development; private repository · [Repository](https://github.com/ViviBeri/nexora-ai)
+- **OneClick AI Cover** — In development; local desktop workflow · [Repository](https://github.com/ViviBeri/OneClick-AI-Cover)
+- **KVB ENTERPRISES** — Live website · [Open website](https://viviberi.github.io/tax-business/)
 
 ---
-
 
 ## Support independent open-source development
 
@@ -94,6 +89,8 @@ Every contribution matters—one-time encouragement and recurring support both h
 ---
 
 ## Project showcase
+
+Each project card links directly to its live product or source repository.
 
 <p align="center">
   <a href="https://gradecalc-sgc.netlify.app/"><img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/projects/gradecalc.svg" alt="GradeCalc project cover — live SGPA and CGPA calculator" width="48%" /></a>
@@ -223,7 +220,6 @@ Updated artwork-derived UI tinting for item-description actions, multidisc album
 - [View merge commit](https://github.com/music-assistant/mobile-app/commit/d4a7256c3b6a8c8ef3d30f986d4ac90e4e9c86bc)
 - [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
 
-
 ### Home Assistant — NSW Fuel Station documentation
 
 **[PR #50087: Add a multi-station example for NSW Fuel Station](https://github.com/home-assistant/home-assistant.io/pull/50087)** · <strong>Merged and published November 2, 2026</strong>
@@ -234,7 +230,6 @@ Added a practical YAML example for configuring four NSW fuel stations with six f
 - [View merge commit](https://github.com/home-assistant/home-assistant.io/commit/08e4aa19177263d960b278a61770b56dc4e4be12)
 - [Read the published documentation](https://www.home-assistant.io/integrations/nsw_fuel_station/)
 - [Full contribution record](https://github.com/ViviBeri/ViviBeri/blob/main/OPEN_SOURCE_CONTRIBUTIONS.md)
-
 
 ### Contribute To This Project — Contributor card
 

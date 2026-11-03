@@ -1,10 +1,10 @@
 <div align="center">
 
+![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/assets/banner.svg)
+
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=White+Hat+Technophile;Android+%26+Web+Developer;Local-first+AI+Builder;Practical+Engineering.+Useful+Software.)](https://git.io/typing-svg)
-
-![Animated header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vivian%20(ViviBeri)&fontSize=42&fontAlignY=32&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Engineering.;Useful+Software.;Continuous+Improvement.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)

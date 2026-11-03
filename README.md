@@ -15,17 +15,18 @@
 
 ## Mission
 
-I build practical solutions for real-world problems. My engineering background spans large-facility operations, HVAC and electrical infrastructure, and IT administration; I now apply the same systems mindset to Android apps, web tools, automation, and local-first AI. I focus on dependable workflows, useful software, measurable behavior, and continuous improvement—not demos that stop at the interface.
+I turn messy, real-world operational problems into clean, reliable software systems. My background in large-facility operations, HVAC, electrical infrastructure, and IT administration shapes how I build Android apps, web tools, automation, and local-first AI: understand the process, design for failure, validate the behavior, and improve what ships. I value dependable systems over polished demos.
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | React · TypeScript · Python |
-| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
-| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
-| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history and local-first AI workflows. | Python · Local-first AI |
+
+| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
 | [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
+| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
+| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
+| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | React · TypeScript · Python |
 
 ## 🧪 Currently Building
 

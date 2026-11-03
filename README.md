@@ -251,7 +251,30 @@ Added the ViviBeri contributor card to the project's contributor showcase. The a
 
 ## GitHub activity
 
-My contribution graph is retained below. Automated activity visualizations are supplementary; the projects and their source code above are the primary evidence of my work.
+A visual snapshot of my public GitHub activity. The contribution visuals are generated automatically; project links and merged pull requests remain the primary evidence of my work.
+
+### 3D contribution calendar
+
+<!-- Generated daily by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-green-animate.svg"
+    alt="Animated 3D GitHub contribution calendar"
+    width="100%"
+  />
+</p>
+
+### Contribution streak
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile/streak.svg"
+    alt="GitHub contribution streak statistics"
+    width="70%"
+  />
+</p>
+
+### Contribution snake
 
 <!-- Contribution Snake: keep the existing green contribution animation -->
 <p align="center">
@@ -261,8 +284,6 @@ My contribution graph is retained below. Automated activity visualizations are s
     width="100%"
   />
 </p>
-
----
 
 ## Contact
 

@@ -77,8 +77,7 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&theme=dark&hide_border=true" alt="ViviBeri GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&theme=dark&hide_border=true" alt="Most used languages"/>
+**Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 

@@ -2,7 +2,7 @@
 
 # Hi, I'm Vivian (ViviBeri) 👋
 
-**White Hat Technophile | Engineer | Android & Web Developer | AI Enthusiast | Open Source Contributor**
+**White Hat Technophile · Engineer · Android & Web Developer · AI Enthusiast · Open Source Contributor**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:164e63,100:6d28d9&height=220&section=header&text=BUILDING%20PRACTICAL%20SYSTEMS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Engineering%20%C3%97%20Software%20%C3%97%20Local-first%20AI&descAlignY=60&descSize=14" width="100%" alt="Animated header: Building practical systems"/>
 

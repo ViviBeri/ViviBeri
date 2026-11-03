@@ -1,3 +1,5 @@
+# Generate a 3D contribution calendar for the profile README.
+# A change to this workflow file also triggers an immediate generation run.
 name: Generate 3D contribution profile
 
 on:

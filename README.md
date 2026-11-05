@@ -1,10 +1,10 @@
 <div align="center">
 
-![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](./assets/banner.svg)
+![Vivian (ViviBeri) — Engineer and Developer](./assets/banner.svg)
 
-# Hi there 👋
+# Vivian · ViviBeri
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Engineering.;Useful+Software.;Continuous+Improvement.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Practical+Engineering.;Useful+Software.;Human-Centred+Automation.;Continuous+Improvement.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
@@ -13,23 +13,46 @@
 
 </div>
 
-## Mission
+---
 
-I turn messy, real-world operational problems into clean, reliable software systems. My background in large-facility operations, HVAC, electrical infrastructure, and IT administration shapes how I build Android apps, web tools, automation, and local-first AI: understand the process, design for failure, validate the behavior, and improve what ships. I value dependable systems over polished demos.
+## whoami
 
-## 🚀 Featured Projects
+```yaml
+name: Vivian (ViviBeri)
+role: Engineer | Android & Web Developer
+background:
+  - Mechanical and manufacturing engineering
+  - HVAC and electrical infrastructure
+  - IT operations and administration
+building:
+  - Practical Android and web applications
+  - Local-first AI and human-reviewed workflows
+  - Automation, testing, and reliable delivery
+principle: "Understand the real problem. Build the useful solution. Verify it."
+```
 
-| Project | Description | Tech |
+I turn real-world operational problems into clean, reliable software systems. My engineering background across facility operations, HVAC, electrical infrastructure, and IT administration shapes how I approach software: understand the process, design for failure, validate the behaviour, and improve what ships. I value dependable systems over polished demos.
+
+## Featured projects
+
+| Project | What it does | Technology |
 |---|---|---|
 | [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
-| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
+| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC |
 | [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
 | [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
 | [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
 
-## 📝 Engineering Build Logs
+## Current engineering focus
 
-Short technical write-ups documenting architecture decisions, implementation trade-offs, verification boundaries, and next engineering steps.
+- **Local-first AI:** practical AI tools that keep processing and user control close to the machine.
+- **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
+- **Android business tooling:** better lead discovery, local data handling, and offline-friendly workflows.
+- **Reliable delivery:** tests, CI automation, documentation, and maintainable releases.
+
+## Engineering build logs
+
+I document architecture decisions, implementation trade-offs, verification boundaries, and next steps.
 
 | Project | Build log |
 |---|---|
@@ -37,26 +60,17 @@ Short technical write-ups documenting architecture decisions, implementation tra
 | OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
 | GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
 
-## 🧪 Currently Building
+## How I approach engineering
 
-- **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.
-- **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
-- **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
-- **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
+| Principle | In practice |
+|---|---|
+| Solve the real problem | Start with the user's workflow, constraints, and failure cases. |
+| Prefer dependable systems | Make behaviour predictable, observable, and recoverable. |
+| Keep humans in control | Make AI-assisted changes reviewable and reversible. |
+| Verify before shipping | Use focused tests, CI checks, and clear documentation. |
+| Improve incrementally | Ship small changes that are easier to understand and maintain. |
 
-## ✨ Live GitHub Activity
-
-<div align="center">
-
-![Contribution snake](https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg)
-
-![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
-
-[Explore contribution activity on GitHub](https://github.com/ViviBeri?tab=overview&from=2026-01-01&to=2026-12-31)
-
-</div>
-
-## 🛠️ Tech Stack & Tools
+## Technology toolkit
 
 **Languages and web**
 
@@ -76,24 +90,37 @@ Short technical write-ups documenting architecture decisions, implementation tra
 ![Local-first AI](https://img.shields.io/badge/Local--first%20AI-334155?style=flat-square)
 ![Audio tooling](https://img.shields.io/badge/Audio%20tooling-7C3AED?style=flat-square)
 
-## ⚙️ Engineering Foundation
+## Engineering foundation
 
-**M.Sc. Manufacturing Processing** · **B.Tech Mechanical Engineering** · **Diploma in Mechanical Engineering**  
+**M.Sc. Manufacturing Processing** · **B.Tech Mechanical Engineering** · **Diploma in Mechanical Engineering**
+
 Additional coursework: **IBM Cybersecurity** and **Generative AI**.
 
 I bring a mechanical and operations-engineering perspective to software: understand the real process, identify failure points, build a workable system, test it, and keep improving it.
 
-## 📊 GitHub Stats
+## Live GitHub activity
 
 <div align="center">
 
-**Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
+![Contribution snake](https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
+![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
+
+[Explore contribution activity](https://github.com/ViviBeri?tab=overview)
 
 </div>
 
-## 📫 Connect
+## GitHub statistics
+
+<div align="center">
+
+[![GitHub streak](https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true)](https://github.com/ViviBeri)
+
+[Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
+
+</div>
+
+## Connect
 
 <div align="center">
 
@@ -111,4 +138,4 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 </div>
 
-![Glassmorphism footer](./assets/footer.svg)
+![Profile footer](./assets/footer.svg)

@@ -6,7 +6,6 @@
 
 <p><strong>Engineer · Android & Web Developer · Local-first AI</strong></p>
 
-<img src="./assets/dev-wakes.gif" alt="Pixel-art developer at a desk, waking up and working" width="720"/>
 
 <p>
   <a href="https://github.com/ViviBeri">GitHub</a> ·

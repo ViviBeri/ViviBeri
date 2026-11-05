@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="ViviBeri — Practical engineering and useful software" width="100%"/>
+<img src="./assets/viviberi-profile-banner.gif" alt="Animated ViviBeri profile banner" width="100%"/>
 
 <h1>Vivian · ViviBeri</h1>
 

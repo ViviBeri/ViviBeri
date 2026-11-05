@@ -1,114 +1,108 @@
 <div align="center">
 
-![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](./assets/banner.svg)
+<img src="./assets/viviberi-profile-banner.gif" alt="Animated ViviBeri profile banner" width="100%"/>
 
-# Hi there 👋
+<h1>Vivian · ViviBeri</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Engineering.;Useful+Software.;Continuous+Improvement.)](https://git.io/typing-svg)
+<p><strong>Engineer · Android & Web Developer · Local-first AI</strong></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
-[![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viviberi.github.io/tax-business/)
-![Location](https://img.shields.io/badge/Pondicherry-India-7c3aed?style=for-the-badge)
 
-</div>
-
-## Mission
-
-I turn messy, real-world operational problems into clean, reliable software systems. My background in large-facility operations, HVAC, electrical infrastructure, and IT administration shapes how I build Android apps, web tools, automation, and local-first AI: understand the process, design for failure, validate the behavior, and improve what ships. I value dependable systems over polished demos.
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
-| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
-| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
-| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
-| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
-
-## 📝 Engineering Build Logs
-
-Short technical write-ups documenting architecture decisions, implementation trade-offs, verification boundaries, and next engineering steps.
-
-| Project | Build log |
-|---|---|
-| LeadFlow | [Local business discovery on Android](https://github.com/ViviBeri/LeadFlow/blob/main/docs/BUILD_LOG_01_LOCAL_BUSINESS_DISCOVERY.md) |
-| OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
-| GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
-
-## 🧪 Currently Building
-
-- **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.
-- **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
-- **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
-- **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
-
-## ✨ Live GitHub Activity
-
-<div align="center">
-
-![Contribution snake](https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg)
-
-![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
-
-[Explore contribution activity on GitHub](https://github.com/ViviBeri?tab=overview&from=2026-01-01&to=2026-12-31)
-
-</div>
-
-## 🛠️ Tech Stack & Tools
-
-**Languages and web**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks, platforms and engineering**
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Local-first AI](https://img.shields.io/badge/Local--first%20AI-334155?style=flat-square)
-![Audio tooling](https://img.shields.io/badge/Audio%20tooling-7C3AED?style=flat-square)
-
-## ⚙️ Engineering Foundation
-
-**M.Sc. Manufacturing Processing** · **B.Tech Mechanical Engineering** · **Diploma in Mechanical Engineering**  
-Additional coursework: **IBM Cybersecurity** and **Generative AI**.
-
-I bring a mechanical and operations-engineering perspective to software: understand the real process, identify failure points, build a workable system, test it, and keep improving it.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-**Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
-
-<img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
-[![Website](https://img.shields.io/badge/KVB%20Enterprises-Visit%20website-0f766e?style=for-the-badge&logo=googlechrome)](https://viviberi.github.io/tax-business/)
+<p>
+  <a href="https://github.com/ViviBeri">GitHub</a> ·
+  <a href="https://linkedin.com/in/berivivi">LinkedIn</a> ·
+  <a href="https://viviberi.github.io/tax-business/">KVB Enterprises</a> ·
+  Pondicherry, India
+</p>
 
 </div>
 
 ---
 
+## `whoami`
+
+<div align="center">
+  <img src="./terminal-profile.svg" alt="Terminal-style developer profile" width="100%"/>
+</div>
+
+I bring a practical engineering mindset to software. My background spans mechanical and manufacturing engineering, HVAC and electrical infrastructure, and IT operations. I build useful Android and web tools, explore local-first AI, and care about systems that are understandable, testable, and dependable.
+
+> **My approach:** Understand the real problem. Build the useful solution. Verify it.
+
+## Featured builds
+
 <div align="center">
 
-*Practical engineering. Useful software. Continuous improvement.*
+<a href="https://github.com/ViviBeri/nexora-ai"><img src="./assets/projects/nexora.svg" alt="Nexora AI" width="48%"/></a>
+<a href="https://github.com/ViviBeri/OneClick-AI-Cover"><img src="./assets/projects/oneclick-ai-cover.svg" alt="OneClick AI Cover" width="48%"/></a>
+<a href="https://github.com/ViviBeri/LeadFlow"><img src="./assets/projects/leadflow.svg" alt="LeadFlow" width="48%"/></a>
+<a href="https://github.com/ViviBeri/gradecalc-app"><img src="./assets/projects/gradecalc.svg" alt="GradeCalc" width="48%"/></a>
+<a href="https://viviberi.github.io/tax-business/"><img src="./assets/projects/kvb-enterprises.svg" alt="KVB Enterprises" width="48%"/></a>
 
 </div>
 
-![Glassmorphism footer](./assets/footer.svg)
+| Project | Focus | Status |
+|---|---|---|
+| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed workflows and local-first AI | In development |
+| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local audio workflow: separation, RVC conversion and export | In development |
+| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management for local businesses | Under testing |
+| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable SGPA and CGPA calculator | Live · Improving |
+| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Tax, registration, compliance and technical services | Live |
+
+## Engineering focus
+
+- **Local-first AI:** useful tools with transparent processing and user control.
+- **Human-reviewed automation:** traceable changes, approval steps, and reversible workflows.
+- **Android and web apps:** practical products designed around real user workflows.
+- **Engineering quality:** focused tests, CI, clear documentation, and incremental delivery.
+
+## Toolbox
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![HVAC](https://img.shields.io/badge/HVAC%20%26%20MEP-0F766E?style=flat-square)
+![Local--first AI](https://img.shields.io/badge/Local--first%20AI-334155?style=flat-square)
+
+</div>
+
+## Engineering foundation
+
+**M.Sc. Manufacturing Processing** · **B.Tech Mechanical Engineering** · **Diploma in Mechanical Engineering**
+
+Additional coursework: IBM Cybersecurity and Generative AI.
+
+## Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar" width="100%"/>
+
+<img src="./profile/streak.svg" alt="GitHub contribution streak" width="100%"/>
+
+</div>
+
+## Build notes
+
+- [LeadFlow — local business discovery on Android](https://github.com/ViviBeri/LeadFlow/blob/main/docs/BUILD_LOG_01_LOCAL_BUSINESS_DISCOVERY.md)
+- [OneClick AI Cover — local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md)
+- [GradeCalc — offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md)
+
+---
+
+<div align="center">
+
+**Practical engineering. Useful software. Continuous improvement.**
+
+<img src="./assets/footer.svg" alt="ViviBeri profile footer" width="100%"/>
+
+</div>

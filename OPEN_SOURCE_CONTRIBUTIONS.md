@@ -40,6 +40,24 @@ A record of contributions made to projects maintained by the wider open-source c
 **Skills demonstrated:** Home Assistant integration research, YAML configuration, schema/source-code validation, technical documentation, review feedback resolution, maintainer collaboration, and CI verification.
 
 
+
+### Home Assistant — MQTT platform configuration support documentation
+
+- **Pull request:** [#50099 — Replace MQTT configuration method lists with a platform support table](https://github.com/home-assistant/home-assistant.io/pull/50099)
+- **Repository:** [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+- **Status:** Merged
+- **Merged on:** November 2, 2026
+- **Merge commit:** [bfb9870553f8bea37de639aa54cc10b2d2a55797](https://github.com/home-assistant/home-assistant.io/commit/bfb9870553f8bea37de639aa54cc10b2d2a55797)
+- **Maintainer:** Approved by `frenck`; replacement PR opened by `jbouwh`.
+- **Validation:** Home Assistant documentation tests, CodeRabbit, and Netlify deploy preview passed.
+- **Change summary:**
+  - Replaced three collapsed MQTT platform lists with one visible support table.
+  - Documented YAML, MQTT discovery, and subentry support for each platform.
+  - Preserved the existing configuration anchors and made subentry setup instructions directly accessible.
+- **Related issue:** [#50026](https://github.com/home-assistant/home-assistant.io/issues/50026).
+
+**Skills demonstrated:** Home Assistant documentation research, MQTT configuration knowledge, Markdown tables, compatibility and anchor preservation, maintainer collaboration, review feedback, and CI verification.
+
 ### Music Assistant — Mobile app
 
 - **Pull request:** [#1295 — Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295)

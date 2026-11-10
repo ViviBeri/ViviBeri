@@ -48,6 +48,36 @@ I bring a practical engineering mindset to software. My background spans mechani
 | [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable SGPA and CGPA calculator | Live · Improving |
 | [KVB Enterprises](https://viviberi.github.io/tax-business/) | Tax, registration, compliance and technical services | Live |
 
+## Engineering tools and references
+
+These repositories extend my work beyond application development into building-services and electrical engineering:
+
+| Repository | What it covers |
+|---|---|
+| [FreeCAD-HVAC](https://github.com/ViviBeri/FreeCAD-HVAC) | Parametric HVAC duct-network modeling, fitting generation, pressure-drop calculations, and automatic duct sizing in FreeCAD. |
+| [MEP Design Sheets](https://github.com/ViviBeri/MEP-Design-Sheets) | Practical calculation sheets and references for HVAC, electrical, plumbing, lighting, lifts, and other building services. |
+| [GElectrical contribution](https://github.com/ViviBeri/GElectrical) | Contributions to open-source LV/MV electrical distribution analysis; [PR #24](https://github.com/manuvarkey/GElectrical/pull/24) adds a Pandapower JSON import viewer and remains under review. |
+| [Earthing fork](https://github.com/ViviBeri/Earthing) | Maintained fork of an electrical-substation grounding analysis library; upstream remains [manuvarkey/Earthing](https://github.com/manuvarkey/Earthing). |
+
+## Open-source contributions
+
+I contribute documentation, Android UI improvements, developer tooling, and engineering features to projects maintained by other teams.
+
+### Merged contributions
+
+- **Home Assistant:** [PR #50087](https://github.com/home-assistant/home-assistant.io/pull/50087) — added a multi-station NSW Fuel Station configuration example; merged and published.
+- **Music Assistant Mobile:** [PR #1295](https://github.com/music-assistant/mobile-app/pull/1295) — improved artwork-derived colors across item-detail controls; merged after maintainer approval.
+- **claude-locator:** [PR #6](https://github.com/scs0209/claude-locator/pull/6) — added developer troubleshooting documentation; merged by the maintainer.
+- **Contribute To This Project:** [PR #4820](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820) — added my contributor card to the community showcase.
+
+### Currently under review
+
+- **Home Assistant documentation:** [#50141](https://github.com/home-assistant/home-assistant.io/pull/50141), [#50415](https://github.com/home-assistant/home-assistant.io/pull/50415), [#50418](https://github.com/home-assistant/home-assistant.io/pull/50418), [#50419](https://github.com/home-assistant/home-assistant.io/pull/50419), and [#50420](https://github.com/home-assistant/home-assistant.io/pull/50420).
+- **GElectrical:** [PR #24](https://github.com/manuvarkey/GElectrical/pull/24) — Pandapower JSON import viewer.
+- **Home Assistant Core:** [ViviBeri/core PR #1](https://github.com/ViviBeri/core/pull/1) — Ring camera integration work.
+
+Only merged items are described as completed contributions; open pull requests remain clearly marked as under review.
+
 ## Engineering focus
 
 - **Local-first AI:** useful tools with transparent processing and user control.

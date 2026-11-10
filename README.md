@@ -1,15 +1,23 @@
 <div align="center">
 
-![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](./assets/banner.svg)
+<img src="./assets/banner.svg" alt="ViviBeri profile banner" width="100%"/>
 
-# Hi there 👋
+# Vivian (ViviBeri)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Engineering.;Useful+Software.;Continuous+Improvement.)](https://git.io/typing-svg)
+### Engineer · Android & Web Developer · Open-source Contributor
 
-[![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Practical+Engineering.;Useful+Software.;Reliable+Automation.;Continuous+Improvement.)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
 [![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viviberi.github.io/tax-business/)
 ![Location](https://img.shields.io/badge/Pondicherry-India-7c3aed?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+**I build practical software for real-world problems — from Android apps and local-first AI to reliable infrastructure and automation.**
 
 </div>
 
@@ -19,13 +27,64 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
-| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
-| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
-| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
-| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Nexora AI](https://github.com/ViviBeri/nexora-ai)
+
+Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Local--first-AI-334155?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [LeadFlow](https://github.com/ViviBeri/LeadFlow)
+
+Android lead discovery and management workflow built for local businesses.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)
+
+Local-first audio workflow for vocal separation, RVC conversion, mixing, and export.
+
+![Demucs](https://img.shields.io/badge/Demucs-Audio-7C3AED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [GradeCalc](https://github.com/ViviBeri/gradecalc-app)
+
+Offline-capable academic calculator for SGPA, CGPA, and academic planning.
+
+[**Open live demo →**](https://gradecalc-sgc.netlify.app/)
+
+![PWA](https://img.shields.io/badge/Offline--ready-PWA-5A0FC8?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [KVB Enterprises](https://viviberi.github.io/tax-business/)
+
+Business services for tax, registration, compliance, HVAC, and electrical support.
+
+![Business](https://img.shields.io/badge/Business-Services-0f766e?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Open Source Contributions
 
@@ -95,9 +154,14 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <div align="center">
 
-**Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
+<a href="https://github.com/ViviBeri">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</a>
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
+
+**[Explore repositories](https://github.com/ViviBeri?tab=repositories)** · **[View contribution history](https://github.com/ViviBeri?tab=overview)**
 
 </div>
 

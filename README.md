@@ -27,6 +27,11 @@ I turn messy, real-world operational problems into clean, reliable software syst
 | [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
 | [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
 
+## 🌐 Open Source Contributions
+
+- **[Home Assistant documentation #50414 — merged](https://github.com/home-assistant/home-assistant.io/pull/50414):** Clarified Airzone Cloud subscription requirements and documented HTTP 402 troubleshooting, including an IPv4-specific workaround that preserves host-level IPv6.
+- **[Home Assistant Core #190195 — draft](https://github.com/home-assistant/core/pull/190195):** Proposed enabling automatic Core updates by default for eligible new Home Assistant OS installations while preserving existing installations and explicit user preferences. Added regression coverage for onboarding and opt-out behavior.
+
 ## 📝 Engineering Build Logs
 
 Short technical write-ups documenting architecture decisions, implementation trade-offs, verification boundaries, and next engineering steps.
@@ -43,6 +48,7 @@ Short technical write-ups documenting architecture decisions, implementation tra
 - **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
 - **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
 - **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
+- **Home Assistant update reliability:** contributing to safer automatic update defaults and user-controlled update choices.
 
 - **Music Assistant server reliability:** investigating a Sonos sync-group announcement issue involving members that rejoin after playback starts; the fix is still under local verification ([support issue #6936](https://github.com/music-assistant/support/issues/6936)).
 

@@ -44,6 +44,8 @@ Short technical write-ups documenting architecture decisions, implementation tra
 - **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
 - **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
 
+- **Music Assistant server reliability:** investigating a Sonos sync-group announcement issue involving members that rejoin after playback starts; the fix is still under local verification ([support issue #6936](https://github.com/music-assistant/support/issues/6936)).
+
 ## ✨ Live GitHub Activity
 
 <div align="center">

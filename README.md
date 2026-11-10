@@ -121,6 +121,8 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 **Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
 
+<img src="./assets/streak-on-fire-banner.gif" alt="Animated fire banner: Streak on Fire — Consistency Builds Momentum" width="420" />
+
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>

@@ -37,6 +37,12 @@ Short technical write-ups documenting architecture decisions, implementation tra
 | OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
 | GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
 
+## 🤝 Merged Open-Source Contributions
+
+| Repository | Contribution | Status |
+|---|---|---|
+| [Home Assistant](https://github.com/home-assistant/home-assistant.io) | [PR #50414 — Clarify Airzone Cloud subscription requirements and add HTTP 402 troubleshooting guidance](https://github.com/home-assistant/home-assistant.io/pull/50414) | **Merged · November 10, 2026** |
+
 ## 🧪 Currently Building
 
 - **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.

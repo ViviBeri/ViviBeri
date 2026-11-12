@@ -2,16 +2,12 @@
 
 <img src="./assets/banner.svg" alt="ViviBeri profile banner" width="100%"/>
 
-# Vivian (ViviBeri)
-
-### Engineer · Android & Web Developer · Open-source Contributor
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Practical+Engineering.;Useful+Software.;Reliable+Automation.;Continuous+Improvement.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=C7F000&center=true&vCenter=true&width=620&lines=Practical+Engineering.;Useful+Software.;Reliable+Systems.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
-[![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viviberi.github.io/tax-business/)
-![Location](https://img.shields.io/badge/Pondicherry-India-7c3aed?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=C7F000)](https://linkedin.com/in/berivivi)
+[![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Website-A0785A?style=for-the-badge&logo=googlechrome&logoColor=171717)](https://viviberi.github.io/tax-business/)
+![Location](https://img.shields.io/badge/Pondicherry-India-C7F000?style=for-the-badge&logoColor=171717)
 
 </div>
 
@@ -225,9 +221,9 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <div align="center">
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
-[![Repositories](https://img.shields.io/badge/Repositories-Browse-0969DA?style=for-the-badge&logo=github)](https://github.com/ViviBeri?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Contributions-Activity-238636?style=for-the-badge&logo=github)](https://github.com/ViviBeri?tab=overview)
+[![GitHub profile](https://img.shields.io/badge/GitHub-ViviBeri-171717?style=for-the-badge&logo=github&logoColor=C7F000)](https://github.com/ViviBeri)
+[![Repositories](https://img.shields.io/badge/Repositories-Browse-A0785A?style=for-the-badge&logo=github&logoColor=171717)](https://github.com/ViviBeri?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions-Activity-C7F000?style=for-the-badge&logo=github&logoColor=171717)](https://github.com/ViviBeri?tab=overview)
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 

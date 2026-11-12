@@ -1,15 +1,23 @@
 <div align="center">
 
-![Vivian (ViviBeri) — White Hat Technophile, Engineer, Android and Web Developer](./assets/banner.svg)
+<img src="./assets/banner.svg" alt="ViviBeri profile banner" width="100%"/>
 
-# Hi there 👋
+# Vivian (ViviBeri)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Engineering.;Useful+Software.;Continuous+Improvement.)](https://git.io/typing-svg)
+### Engineer · Android & Web Developer · Open-source Contributor
 
-[![GitHub](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Practical+Engineering.;Useful+Software.;Reliable+Automation.;Continuous+Improvement.)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berivivi)
 [![KVB Enterprises](https://img.shields.io/badge/KVB%20Enterprises-Website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viviberi.github.io/tax-business/)
 ![Location](https://img.shields.io/badge/Pondicherry-India-7c3aed?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+**I build practical software for real-world problems — from Android apps and local-first AI to reliable infrastructure and automation.**
 
 </div>
 
@@ -19,13 +27,113 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | Human-reviewed task workspace exploring revision history, workflow coordination, and local-first AI. | Python · Local-first AI |
-| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | Local-first Windows workflow for vocal separation, RVC conversion, mixing, and export. | Python · Demucs · RVC · Audio tooling |
-| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | Android lead discovery and management workflow for local businesses. | Kotlin · Jetpack Compose · Room |
-| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) · [Live demo](https://gradecalc-sgc.netlify.app/) | Offline-capable PWA for SGPA, CGPA, and academic planning. | HTML · CSS · JavaScript · PWA |
-| [KVB Enterprises](https://viviberi.github.io/tax-business/) | Business services for tax, registration, compliance, HVAC, and electrical support. | HTML · CSS · JavaScript |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Nexora AI](https://github.com/ViviBeri/nexora-ai)
+
+Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Local--first-AI-334155?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [LeadFlow](https://github.com/ViviBeri/LeadFlow)
+
+Android lead discovery and management workflow built for local businesses.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)
+
+Local-first audio workflow for vocal separation, RVC conversion, mixing, and export.
+
+![Demucs](https://img.shields.io/badge/Demucs-Audio-7C3AED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [GradeCalc](https://github.com/ViviBeri/gradecalc-app)
+
+Offline-capable academic calculator for SGPA, CGPA, and academic planning.
+
+[**Open live demo →**](https://gradecalc-sgc.netlify.app/)
+
+![PWA](https://img.shields.io/badge/Offline--ready-PWA-5A0FC8?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [KVB Enterprises](https://viviberi.github.io/tax-business/)
+
+Business services for tax, registration, compliance, HVAC, and electrical support.
+
+![Business](https://img.shields.io/badge/Business-Services-0f766e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+## 🌐 Open-Source Contributions
+
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 12, 2026.
+
+### Merged
+
+| Project | Contribution |
+|---|---|
+| [Home Assistant](https://github.com/home-assistant/home-assistant.io) | [#50417 — Update UniFi bandwidth sensor instructions](https://github.com/home-assistant/home-assistant.io/pull/50417) · [#50414 — Clarify Airzone Cloud subscription requirements](https://github.com/home-assistant/home-assistant.io/pull/50414) · [#50141 — Fix RFXCOM P1 hardware links](https://github.com/home-assistant/home-assistant.io/pull/50141) · [#50087 — Add NSW Fuel Station multi-station example](https://github.com/home-assistant/home-assistant.io/pull/50087) |
+| [Music Assistant Mobile](https://github.com/music-assistant/mobile-app) | [#1295 — Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295) |
+| [claude-locator](https://github.com/scs0209/claude-locator) | [#6 — Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6) |
+| [Earthing](https://github.com/manuvarkey/Earthing) | [#3 — Add user guide and API reference](https://github.com/manuvarkey/Earthing/pull/3) |
+| [MEP Design Sheets](https://github.com/manuvarkey/MEP-Design-Sheets) | [#1 — Add HVAC calculation resource index](https://github.com/manuvarkey/MEP-Design-Sheets/pull/1) |
+| [Contribute To This Project](https://github.com/Syknapse/Contribute-To-This-Project) | [#4820](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820) · [#4829](https://github.com/Syknapse/Contribute-To-This-Project/pull/4829) — Add contributor card to the community showcase |
+
+### Open pull requests
+
+| Project | Contribution |
+|---|---|
+| [Home Assistant documentation](https://github.com/home-assistant/home-assistant.io) | [#50416 — Document SMLIGHT Bluetooth proxy prerequisites](https://github.com/home-assistant/home-assistant.io/pull/50416) · [#50504 — Document older SolarEdge display models](https://github.com/home-assistant/home-assistant.io/pull/50504) · [#50419 — Refresh Google Wifi integration documentation](https://github.com/home-assistant/home-assistant.io/pull/50419) · [#50415 — Disable Secure Boot in KVM installation commands](https://github.com/home-assistant/home-assistant.io/pull/50415) · [#50420 — Explain Tado presence modes](https://github.com/home-assistant/home-assistant.io/pull/50420) · [#50418 — Document PlayStation NPSSO token retrieval](https://github.com/home-assistant/home-assistant.io/pull/50418) · [#50431 — Clarify household remote access](https://github.com/home-assistant/home-assistant.io/pull/50431) *(draft)* |
+| [Home Assistant Core](https://github.com/home-assistant/core) | [#190195 — Set automatic Core updates by default for eligible new installations](https://github.com/home-assistant/core/pull/190195) *(draft)* |
+| [Tinder](https://github.com/fbessez/Tinder) | [#160 — Harden authentication HTTP requests](https://github.com/fbessez/Tinder/pull/160) |
+| [GElectrical](https://github.com/manuvarkey/GElectrical) | [#24 — Add Pandapower JSON import viewer](https://github.com/manuvarkey/GElectrical/pull/24) · [#23 — Add analytical two-bus power-flow reference case](https://github.com/manuvarkey/GElectrical/pull/23) · [#22 — Add read-only Pandapower JSON import](https://github.com/manuvarkey/GElectrical/pull/22) · [#21 — Support generator slack participation](https://github.com/manuvarkey/GElectrical/pull/21) · [#20 — Add reference voltage-drop regression case](https://github.com/manuvarkey/GElectrical/pull/20) |
+| [FreeCAD-HVAC](https://github.com/manuvarkey/FreeCAD-HVAC) | [#1 — Validate positive hydraulic diameter in Reynolds number](https://github.com/manuvarkey/FreeCAD-HVAC/pull/1) |
+| [freeCodeCamp — Back End Development and APIs](https://github.com/freeCodeCamp/back-end-development-and-apis) | [#97 — Correct the Run Tests button label](https://github.com/freeCodeCamp/back-end-development-and-apis/pull/97) |
+| [freeCodeCamp — How to Contribute](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | [#1072 — Add Sinhalese to the README language menu](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/1072) |
+| [S.P.L.U.R.T Telegram](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | [#1393 — Fix portal overlays](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/1393) |
+
+### Closed without merge
+
+- [Home Assistant documentation #50082 — Improve discoverability of MQTT entity documentation](https://github.com/home-assistant/home-assistant.io/pull/50082).
+- [Contribute To This Project #4828 — Add contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4828).
+
+### My project development
+
+Most pull requests across my own repositories cover feature delivery, reliability, accessibility, security, testing, documentation, and CI improvements. Browse the complete PR history for each project:
+
+- [LeadFlow](https://github.com/ViviBeri/LeadFlow/pulls?q=is%3Apr+author%3AViviBeri)
+- [GradeCalc](https://github.com/ViviBeri/gradecalc-app/pulls?q=is%3Apr+author%3AViviBeri)
+- [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover/pulls?q=is%3Apr+author%3AViviBeri)
+- [Nexora AI](https://github.com/ViviBeri/nexora-ai/pulls?q=is%3Apr+author%3AViviBeri)
+- [KVB Enterprises website](https://github.com/ViviBeri/tax-business/pulls?q=is%3Apr+author%3AViviBeri)
+- [FreeCAD-HVAC](https://github.com/ViviBeri/FreeCAD-HVAC/pulls?q=is%3Apr+author%3AViviBeri)
+- [MEP Design Sheets](https://github.com/ViviBeri/MEP-Design-Sheets/pulls?q=is%3Apr+author%3AViviBeri)
+- [GElectrical](https://github.com/ViviBeri/GElectrical/pulls?q=is%3Apr+author%3AViviBeri)
+- [OpenClaw](https://github.com/ViviBeri/openclaw/pulls?q=is%3Apr+author%3AViviBeri)
+
+[Browse all pull requests authored by me across GitHub](https://github.com/search?q=author%3AViviBeri+is%3Apr&type=pullrequests).
 
 ## 📝 Engineering Build Logs
 
@@ -37,18 +145,13 @@ Short technical write-ups documenting architecture decisions, implementation tra
 | OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
 | GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
 
-## 🤝 Merged Open-Source Contributions
-
-| Repository | Contribution | Status |
-|---|---|---|
-| [Home Assistant](https://github.com/home-assistant/home-assistant.io) | [PR #50414 — Clarify Airzone Cloud subscription requirements and add HTTP 402 troubleshooting guidance](https://github.com/home-assistant/home-assistant.io/pull/50414) | **Merged · November 10, 2026** |
-
 ## 🧪 Currently Building
 
 - **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.
 - **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
 - **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.
 - **Reliable delivery:** testing, CI automation, documentation, and maintainable releases across projects.
+- **Home Assistant update reliability:** contributing to safer automatic update defaults and user-controlled update choices.
 
 - **Music Assistant server reliability:** investigating a Sonos sync-group announcement issue involving members that rejoin after playback starts; the fix is still under local verification ([support issue #6936](https://github.com/music-assistant/support/issues/6936)).
 
@@ -66,44 +169,23 @@ Short technical write-ups documenting architecture decisions, implementation tra
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages**
+**Languages and web**
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks and platforms**
+**Frameworks, platforms and engineering**
 
-<p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Progressive%20Web%20Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="Progressive Web Apps" />
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Room" />
-</p>
-
-**Engineering tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**AI and audio workflow**
-
-<p>
-  <img src="https://img.shields.io/badge/Demucs-334155?style=for-the-badge" alt="Demucs" />
-  <img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-5B6DCD?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Local--first%20AI-334155?style=for-the-badge" alt="Local-first AI" />
-  <img src="https://img.shields.io/badge/Python%20Audio%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python audio tooling" />
-</p>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Local-first AI](https://img.shields.io/badge/Local--first%20AI-334155?style=flat-square)
+![Audio tooling](https://img.shields.io/badge/Audio%20tooling-7C3AED?style=flat-square)
 
 ## ⚙️ Engineering Foundation
 
@@ -117,19 +199,13 @@ I bring a mechanical and operations-engineering perspective to software: underst
 <div align="center">
 
 <a href="https://github.com/ViviBeri">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/ViviBeri">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 </a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ViviBeri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+<img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 
-**Explore my work:** [Repositories](https://github.com/ViviBeri?tab=repositories) · [Contribution history](https://github.com/ViviBeri?tab=overview)
-
-<img src="./assets/streak-on-fire-banner.gif" alt="Animated fire banner: Streak on Fire — Consistency Builds Momentum" width="420" />
-
-<img src="https://streak-stats.demolab.com?user=ViviBeri&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+**[Explore repositories](https://github.com/ViviBeri?tab=repositories)** · **[View contribution history](https://github.com/ViviBeri?tab=overview)**
 
 </div>
 

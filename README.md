@@ -227,9 +227,20 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 
-**[Explore repositories](https://github.com/ViviBeri?tab=repositories)** · **[View contribution history](https://github.com/ViviBeri?tab=overview)**
-
 </div>
+
+## 🌟 Project Activity
+
+Live repository metrics, following the project-table approach used in [thmsgbrt's profile](https://github.com/thmsgbrt/thmsgbrt).
+
+| Project | Stars | Forks | Open issues | Open PRs |
+|---|---|---|---|---|
+| [Nexora AI](https://github.com/ViviBeri/nexora-ai) | ![Stars](https://img.shields.io/github/stars/ViviBeri/nexora-ai?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/ViviBeri/nexora-ai?style=flat-square&label=) | ![Issues](https://img.shields.io/github/issues/ViviBeri/nexora-ai?style=flat-square&label=) | ![PRs](https://img.shields.io/github/issues-pr/ViviBeri/nexora-ai?style=flat-square&label=) |
+| [LeadFlow](https://github.com/ViviBeri/LeadFlow) | ![Stars](https://img.shields.io/github/stars/ViviBeri/LeadFlow?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/ViviBeri/LeadFlow?style=flat-square&label=) | ![Issues](https://img.shields.io/github/issues/ViviBeri/LeadFlow?style=flat-square&label=) | ![PRs](https://img.shields.io/github/issues-pr/ViviBeri/LeadFlow?style=flat-square&label=) |
+| [GradeCalc](https://github.com/ViviBeri/gradecalc-app) | ![Stars](https://img.shields.io/github/stars/ViviBeri/gradecalc-app?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/ViviBeri/gradecalc-app?style=flat-square&label=) | ![Issues](https://img.shields.io/github/issues/ViviBeri/gradecalc-app?style=flat-square&label=) | ![PRs](https://img.shields.io/github/issues-pr/ViviBeri/gradecalc-app?style=flat-square&label=) |
+| [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover) | ![Stars](https://img.shields.io/github/stars/ViviBeri/OneClick-AI-Cover?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/ViviBeri/OneClick-AI-Cover?style=flat-square&label=) | ![Issues](https://img.shields.io/github/issues/ViviBeri/OneClick-AI-Cover?style=flat-square&label=) | ![PRs](https://img.shields.io/github/issues-pr/ViviBeri/OneClick-AI-Cover?style=flat-square&label=) |
+| [FreeCAD-HVAC](https://github.com/ViviBeri/FreeCAD-HVAC) | ![Stars](https://img.shields.io/github/stars/ViviBeri/FreeCAD-HVAC?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/ViviBeri/FreeCAD-HVAC?style=flat-square&label=) | ![Issues](https://img.shields.io/github/issues/ViviBeri/FreeCAD-HVAC?style=flat-square&label=) | ![PRs](https://img.shields.io/github/issues-pr/ViviBeri/FreeCAD-HVAC?style=flat-square&label=) |
+
 ## 📫 Connect
 
 <div align="center">

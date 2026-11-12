@@ -207,6 +207,8 @@ Short technical write-ups documenting architecture decisions, implementation tra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Local-first AI](https://img.shields.io/badge/Local--first%20AI-334155?style=flat-square)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-5B6DCD?style=flat-square)
 ![Demucs](https://img.shields.io/badge/Demucs-Audio-7C3AED?style=flat-square)
@@ -244,11 +246,5 @@ I bring a mechanical and operations-engineering perspective to software: underst
 </div>
 
 ---
-
-<div align="center">
-
-*Practical engineering. Useful software. Continuous improvement.*
-
-</div>
 
 ![Glassmorphism footer](./assets/footer.svg)

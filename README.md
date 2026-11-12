@@ -69,6 +69,10 @@ Offline-capable academic calculator for SGPA, CGPA, and academic planning.
 
 [**Open live demo →**](https://gradecalc-sgc.netlify.app/)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20tools-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PWA](https://img.shields.io/badge/Offline--ready-PWA-5A0FC8?style=flat-square)
 
 </td>
@@ -78,9 +82,13 @@ Offline-capable academic calculator for SGPA, CGPA, and academic planning.
 
 ### [KVB Enterprises](https://viviberi.github.io/tax-business/)
 
-Business services for tax, registration, compliance, HVAC, and electrical support.
+Bilingual (English and Tamil) business website for tax, registration, compliance, HVAC, and electrical support.
 
-![Business](https://img.shields.io/badge/Business-Services-0f766e?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20build%20tool-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
 </td>
 </tr>
@@ -159,7 +167,7 @@ Short technical write-ups documenting architecture decisions, implementation tra
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/ViviBeri/ViviBeri/output/github-contribution-grid-snake-dark.svg)
+[![Contribution activity](https://img.shields.io/badge/GitHub-Contribution%20activity-238636?style=for-the-badge&logo=github)](https://github.com/ViviBeri?tab=overview)
 
 ![3D contribution calendar](https://raw.githubusercontent.com/ViviBeri/ViviBeri/main/profile-3d-contrib/profile-night-green.svg)
 
@@ -198,10 +206,9 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <div align="center">
 
-<a href="https://github.com/ViviBeri">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-</a>
+[![GitHub profile](https://img.shields.io/badge/GitHub-ViviBeri-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
+[![Repositories](https://img.shields.io/badge/Repositories-Browse-0969DA?style=for-the-badge&logo=github)](https://github.com/ViviBeri?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions-Activity-238636?style=for-the-badge&logo=github)](https://github.com/ViviBeri?tab=overview)
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 

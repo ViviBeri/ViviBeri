@@ -86,10 +86,54 @@ Business services for tax, registration, compliance, HVAC, and electrical suppor
 </tr>
 </table>
 
-## 🌐 Open Source Contributions
+## 🌐 Open-Source Contributions
 
-- **[Home Assistant documentation #50414 — merged](https://github.com/home-assistant/home-assistant.io/pull/50414):** Clarified Airzone Cloud subscription requirements and documented HTTP 402 troubleshooting, including an IPv4-specific workaround that preserves host-level IPv6.
-- **[Home Assistant Core #190195 — draft](https://github.com/home-assistant/core/pull/190195):** Proposed enabling automatic Core updates by default for eligible new Home Assistant OS installations while preserving existing installations and explicit user preferences. Added regression coverage for onboarding and opt-out behavior.
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 12, 2026.
+
+### Merged
+
+| Project | Contribution |
+|---|---|
+| [Home Assistant](https://github.com/home-assistant/home-assistant.io) | [#50414 — Clarify Airzone Cloud subscription requirements](https://github.com/home-assistant/home-assistant.io/pull/50414) · [#50141 — Fix RFXCOM P1 hardware links](https://github.com/home-assistant/home-assistant.io/pull/50141) · [#50087 — Add NSW Fuel Station multi-station example](https://github.com/home-assistant/home-assistant.io/pull/50087) |
+| [Music Assistant Mobile](https://github.com/music-assistant/mobile-app) | [#1295 — Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295) |
+| [claude-locator](https://github.com/scs0209/claude-locator) | [#6 — Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6) |
+| [Earthing](https://github.com/manuvarkey/Earthing) | [#3 — Add user guide and API reference](https://github.com/manuvarkey/Earthing/pull/3) |
+| [MEP Design Sheets](https://github.com/manuvarkey/MEP-Design-Sheets) | [#1 — Add HVAC calculation resource index](https://github.com/manuvarkey/MEP-Design-Sheets/pull/1) |
+| [Contribute To This Project](https://github.com/Syknapse/Contribute-To-This-Project) | [#4820](https://github.com/Syknapse/Contribute-To-This-Project/pull/4820) · [#4829](https://github.com/Syknapse/Contribute-To-This-Project/pull/4829) — Add contributor card to the community showcase |
+
+### Open pull requests
+
+| Project | Contribution |
+|---|---|
+| [Home Assistant documentation](https://github.com/home-assistant/home-assistant.io) | [#50416 — Document SMLIGHT Bluetooth proxy prerequisites](https://github.com/home-assistant/home-assistant.io/pull/50416) · [#50504 — Document older SolarEdge display models](https://github.com/home-assistant/home-assistant.io/pull/50504) · [#50417 — Update UniFi bandwidth sensor instructions](https://github.com/home-assistant/home-assistant.io/pull/50417) · [#50419 — Refresh Google Wifi integration documentation](https://github.com/home-assistant/home-assistant.io/pull/50419) · [#50415 — Disable Secure Boot in KVM installation commands](https://github.com/home-assistant/home-assistant.io/pull/50415) · [#50420 — Explain Tado presence modes](https://github.com/home-assistant/home-assistant.io/pull/50420) · [#50418 — Document PlayStation NPSSO token retrieval](https://github.com/home-assistant/home-assistant.io/pull/50418) · [#50431 — Clarify household remote access](https://github.com/home-assistant/home-assistant.io/pull/50431) *(draft)* |
+| [Home Assistant Core](https://github.com/home-assistant/core) | [#190195 — Set automatic Core updates by default for eligible new installations](https://github.com/home-assistant/core/pull/190195) *(draft)* |
+| [Tinder](https://github.com/fbessez/Tinder) | [#160 — Harden authentication HTTP requests](https://github.com/fbessez/Tinder/pull/160) |
+| [GElectrical](https://github.com/manuvarkey/GElectrical) | [#24 — Add Pandapower JSON import viewer](https://github.com/manuvarkey/GElectrical/pull/24) · [#23 — Add analytical two-bus power-flow reference case](https://github.com/manuvarkey/GElectrical/pull/23) · [#22 — Add read-only Pandapower JSON import](https://github.com/manuvarkey/GElectrical/pull/22) · [#21 — Support generator slack participation](https://github.com/manuvarkey/GElectrical/pull/21) · [#20 — Add reference voltage-drop regression case](https://github.com/manuvarkey/GElectrical/pull/20) |
+| [FreeCAD-HVAC](https://github.com/manuvarkey/FreeCAD-HVAC) | [#1 — Validate positive hydraulic diameter in Reynolds number](https://github.com/manuvarkey/FreeCAD-HVAC/pull/1) |
+| [freeCodeCamp — Back End Development and APIs](https://github.com/freeCodeCamp/back-end-development-and-apis) | [#97 — Correct the Run Tests button label](https://github.com/freeCodeCamp/back-end-development-and-apis/pull/97) |
+| [freeCodeCamp — How to Contribute](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | [#1072 — Add Sinhalese to the README language menu](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/1072) |
+| [S.P.L.U.R.T Telegram](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | [#1393 — Fix portal overlays](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/1393) |
+
+### Closed without merge
+
+- [Home Assistant documentation #50082 — Improve discoverability of MQTT entity documentation](https://github.com/home-assistant/home-assistant.io/pull/50082).
+- [Contribute To This Project #4828 — Add contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4828).
+
+### My project development
+
+Most pull requests across my own repositories cover feature delivery, reliability, accessibility, security, testing, documentation, and CI improvements. Browse the complete PR history for each project:
+
+- [LeadFlow](https://github.com/ViviBeri/LeadFlow/pulls?q=is%3Apr+author%3AViviBeri)
+- [GradeCalc](https://github.com/ViviBeri/gradecalc-app/pulls?q=is%3Apr+author%3AViviBeri)
+- [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover/pulls?q=is%3Apr+author%3AViviBeri)
+- [Nexora AI](https://github.com/ViviBeri/nexora-ai/pulls?q=is%3Apr+author%3AViviBeri)
+- [KVB Enterprises website](https://github.com/ViviBeri/tax-business/pulls?q=is%3Apr+author%3AViviBeri)
+- [FreeCAD-HVAC](https://github.com/ViviBeri/FreeCAD-HVAC/pulls?q=is%3Apr+author%3AViviBeri)
+- [MEP Design Sheets](https://github.com/ViviBeri/MEP-Design-Sheets/pulls?q=is%3Apr+author%3AViviBeri)
+- [GElectrical](https://github.com/ViviBeri/GElectrical/pulls?q=is%3Apr+author%3AViviBeri)
+- [OpenClaw](https://github.com/ViviBeri/openclaw/pulls?q=is%3Apr+author%3AViviBeri)
+
+[Browse all pull requests authored by me across GitHub](https://github.com/search?q=author%3AViviBeri+is%3Apr&type=pullrequests).
 
 ## 📝 Engineering Build Logs
 

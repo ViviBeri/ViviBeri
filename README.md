@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="ViviBeri profile banner" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=C7F000&center=true&vCenter=true&width=620&lines=Practical+Engineering.;Useful+Software.;Reliable+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=C7F000&center=true&vCenter=true&width=680&lines=Engineering+Reliable+Software.;Building+Practical+Digital+Tools.;Contributing+to+Open+Source.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ViviBeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=C7F000)](https://linkedin.com/in/berivivi)

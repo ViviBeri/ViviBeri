@@ -221,16 +221,15 @@ I bring a mechanical and operations-engineering perspective to software: underst
 
 <div align="center">
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-ViviBeri-171717?style=for-the-badge&logo=github&logoColor=C7F000)](https://github.com/ViviBeri)
-[![Repositories](https://img.shields.io/badge/Repositories-Browse-A0785A?style=for-the-badge&logo=github&logoColor=171717)](https://github.com/ViviBeri?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Contributions-Activity-C7F000?style=for-the-badge&logo=github&logoColor=171717)](https://github.com/ViviBeri?tab=overview)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViviBeri&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&title_color=C7F000&icon_color=C7F000&text_color=C9D1D9)](https://github.com/ViviBeri)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViviBeri&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=C7F000&text_color=C9D1D9)](https://github.com/ViviBeri)
 
 <img src="https://streak-stats.demolab.com?user=ViviBeri&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 
 **[Explore repositories](https://github.com/ViviBeri?tab=repositories)** · **[View contribution history](https://github.com/ViviBeri?tab=overview)**
 
 </div>
-
 ## 📫 Connect
 
 <div align="center">

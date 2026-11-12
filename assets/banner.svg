@@ -1,30 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Vivian (ViviBeri)</title>
-  <desc id="desc">Engineer building practical software, Android and web tools, and local-first AI.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#132238"/>
-      <stop offset="1" stop-color="#102b25"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#3fb950"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
-  <path d="M760 0H1200V340H930Z" fill="#58a6ff" opacity=".06"/>
-  <path d="M980 0H1200V340H1100Z" fill="#3fb950" opacity=".07"/>
-  <rect x="48" y="48" width="1104" height="140" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".13"/>
-  <rect x="56" y="64" width="4" height="108" rx="2" fill="url(#accent)"/>
-  <text x="84" y="112" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#e6edf3">Vivian (ViviBeri)</text>
-  <text x="84" y="152" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#aab7c4">Engineering · Android &amp; Web · Local-first AI · Open Source</text>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#dbe6f0" text-anchor="middle">
-    <rect x="48" y="226" width="110" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="103" y="252">Kotlin</text>
-    <rect x="170" y="226" width="100" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="220" y="252">React</text>
-    <rect x="282" y="226" width="130" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="347" y="252">TypeScript</text>
-    <rect x="424" y="226" width="110" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="479" y="252">Python</text>
-    <rect x="546" y="226" width="150" height="42" rx="21" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".16"/><text x="621" y="252">Local-first AI</text>
-  </g>
-  <path d="M48 304H1152" stroke="url(#accent)" stroke-width="2" opacity=".75"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Vivian — Engineer and Open-source Contributor</title>
+  <desc id="desc">Minimalist carbon black banner with mocha suede panels and an acid lime accent.</desc>
+  <rect width="1200" height="190" rx="16" fill="#171717"/>
+  <rect x="0" y="0" width="12" height="190" rx="6" fill="#C7F000"/>
+  <path d="M820 0H1200V190H1010Z" fill="#A0785A" opacity=".30"/>
+  <path d="M1040 0H1200V190H1135Z" fill="#A0785A" opacity=".22"/>
+  <text x="64" y="88" fill="#F5F3EF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">VIVIAN</text>
+  <text x="66" y="126" fill="#C7F000" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="3">ENGINEER  /  ANDROID &amp; WEB  /  OPEN SOURCE</text>
+  <path d="M66 151H1134" stroke="#A0785A" stroke-width="2" opacity=".8"/>
+  <circle cx="1134" cy="151" r="4" fill="#C7F000"/>
 </svg>

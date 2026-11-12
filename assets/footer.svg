@@ -1,21 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title desc">
   <title id="title">Practical engineering. Useful software. Continuous improvement.</title>
-  <desc id="desc">A dark glassmorphism footer with blue and green accents.</desc>
-  <defs>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".09"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity=".03"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#3fb950"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="1198" height="138" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <path d="M1 110C180 35 310 35 480 110S800 165 1000 75S1140 45 1199 65" fill="none" stroke="#58a6ff" stroke-opacity=".13" stroke-width="2"/>
-  <rect x="40" y="30" width="1120" height="80" rx="12" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".14"/>
-  <rect x="40" y="30" width="1120" height="1" fill="#ffffff" fill-opacity=".25"/>
-  <rect x="40" y="30" width="4" height="80" rx="2" fill="url(#accent)"/>
-  <text x="600" y="74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-style="italic" fill="#e6edf3" text-anchor="middle">Practical engineering. Useful software. Continuous improvement.</text>
-  <path d="M48 126H1152" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+  <desc id="desc">Minimalist carbon black footer with mocha suede and acid lime accents.</desc>
+  <rect width="1200" height="110" rx="14" fill="#171717"/>
+  <rect x="0" y="0" width="6" height="110" rx="3" fill="#C7F000"/>
+  <path d="M850 0H1200V110H1010Z" fill="#A0785A" opacity=".28"/>
+  <text x="56" y="63" fill="#F5F3EF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Practical engineering. Useful software. Continuous improvement.</text>
+  <path d="M56 82H1144" stroke="#A0785A" stroke-width="2"/>
+  <path d="M56 82H270" stroke="#C7F000" stroke-width="3"/>
 </svg>

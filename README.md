@@ -51,7 +51,7 @@ Android lead discovery and management workflow built for local businesses.
 
 ### [OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)
 
-Local-first audio workflow for vocal separation, RVC conversion, mixing, and export.
+Windows-first, local AI audio workflow with Demucs separation, RVC conversion, optional retrieval indexes, audio mixing, and persistent job history.
 
 ![Demucs](https://img.shields.io/badge/Demucs-Audio-7C3AED?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,7 +92,7 @@ Bilingual (English and Tamil) business website for tax, registration, compliance
 
 ## 🌐 Open-Source Contributions
 
-A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 12, 2026.
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 13, 2026.
 
 ### Merged
 
@@ -146,11 +146,12 @@ Short technical write-ups documenting architecture decisions, implementation tra
 | Project | Build log |
 |---|---|
 | LeadFlow | [Local business discovery on Android](https://github.com/ViviBeri/LeadFlow/blob/main/docs/BUILD_LOG_01_LOCAL_BUSINESS_DISCOVERY.md) |
-| OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) |
+| OneClick AI Cover | [Local AI audio workflow](https://github.com/ViviBeri/OneClick-AI-Cover/blob/main/docs/BUILD_LOG_01_LOCAL_AI_AUDIO_WORKFLOW.md) · [Job history implementation](https://github.com/ViviBeri/OneClick-AI-Cover/pull/52) |
 | GradeCalc | [Offline academic calculator](https://github.com/ViviBeri/gradecalc-app/blob/main/docs/BUILD_LOG_01_OFFLINE_ACADEMIC_CALCULATOR.md) |
 
 ## 🧪 Currently Building
 
+- **OneClick AI Cover:** extending the local audio pipeline with pluggable separation engines, RVC retrieval indexes, SQLite job history, and stronger Windows validation. The latest [job-history UI PR #52](https://github.com/ViviBeri/OneClick-AI-Cover/pull/52) is under CI review.
 - **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.
 - **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.
 - **Android business tooling:** improving lead discovery, local data handling, and offline-friendly workflows.

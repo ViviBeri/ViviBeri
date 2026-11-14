@@ -92,7 +92,7 @@ Bilingual (English and Tamil) business website for tax, registration, compliance
 
 ## 🌐 Open-Source Contributions
 
-A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 13, 2026.
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 14, 2026.
 
 ### Merged
 
@@ -109,6 +109,7 @@ A selection of upstream contributions across Home Assistant, Music Assistant, el
 
 | Project | Contribution |
 |---|---|
+| [Quelor](https://github.com/coherera/quelor) | [#47 — Deduplicate decision types across decider and trace](https://github.com/coherera/quelor/pull/47) — implements [issue #9](https://github.com/coherera/quelor/issues/9); awaiting CI workflow approval and review |
 | [Home Assistant documentation](https://github.com/home-assistant/home-assistant.io) | [#50416 — Document SMLIGHT Bluetooth proxy prerequisites](https://github.com/home-assistant/home-assistant.io/pull/50416) · [#50504 — Document older SolarEdge display models](https://github.com/home-assistant/home-assistant.io/pull/50504) · [#50419 — Refresh Google Wifi integration documentation](https://github.com/home-assistant/home-assistant.io/pull/50419) · [#50415 — Disable Secure Boot in KVM installation commands](https://github.com/home-assistant/home-assistant.io/pull/50415) · [#50418 — Document PlayStation NPSSO token retrieval](https://github.com/home-assistant/home-assistant.io/pull/50418) · [#50431 — Clarify household remote access](https://github.com/home-assistant/home-assistant.io/pull/50431) *(draft)* |
 | [Home Assistant Core](https://github.com/home-assistant/core) | [#190195 — Set automatic Core updates by default for eligible new installations](https://github.com/home-assistant/core/pull/190195) *(draft)* |
 | [Tinder](https://github.com/fbessez/Tinder) | [#160 — Harden authentication HTTP requests](https://github.com/fbessez/Tinder/pull/160) |
@@ -151,6 +152,7 @@ Short technical write-ups documenting architecture decisions, implementation tra
 
 ## 🧪 Currently Building
 
+- **Quelor:** contributed a dependency-neutral shared decision-types package for `Op`, `Mode`, and `Provenance`; [PR #47](https://github.com/coherera/quelor/pull/47) addresses [issue #9](https://github.com/coherera/quelor/issues/9) and is awaiting CI approval and maintainer review.
 - **OneClick AI Cover:** extending the local audio pipeline with pluggable separation engines, RVC retrieval indexes, SQLite job history, and stronger Windows validation. The latest [job-history UI PR #52](https://github.com/ViviBeri/OneClick-AI-Cover/pull/52) is under CI review.
 - **Local-first AI workflows:** practical AI tools that keep processing and user control close to the machine.
 - **Human-in-the-loop orchestration:** traceable task revisions, review, and approval rather than opaque automation.

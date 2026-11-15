@@ -92,7 +92,7 @@ Bilingual (English and Tamil) business website for tax, registration, compliance
 
 ## 🌐 Open-Source Contributions
 
-A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 14, 2026.
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 15, 2026.
 
 ### Merged
 
@@ -100,6 +100,7 @@ A selection of upstream contributions across Home Assistant, Music Assistant, el
 |---|---|
 | [Home Assistant](https://github.com/home-assistant/home-assistant.io) | [#50420 — Explain how to change Tado presence modes](https://github.com/home-assistant/home-assistant.io/pull/50420) · [#50417 — Update UniFi bandwidth sensor instructions](https://github.com/home-assistant/home-assistant.io/pull/50417) · [#50414 — Clarify Airzone Cloud subscription requirements](https://github.com/home-assistant/home-assistant.io/pull/50414) · [#50141 — Fix RFXCOM P1 hardware links](https://github.com/home-assistant/home-assistant.io/pull/50141) · [#50087 — Add NSW Fuel Station multi-station example](https://github.com/home-assistant/home-assistant.io/pull/50087) |
 | [Music Assistant Mobile](https://github.com/music-assistant/mobile-app) | [#1295 — Use artwork colors for the More button on item details](https://github.com/music-assistant/mobile-app/pull/1295) |
+| [Quelor](https://github.com/coherera/quelor) | [#62 — Add tests for `quelor-bench` CLI](https://github.com/coherera/quelor/pull/62) — added focused CLI tests for JSON output, `-units`, invalid flags, and help handling; CI passed and the PR was approved and merged |
 | [Type Tune](https://github.com/necoz-oss/type-tune) | [#23 — Add regression coverage for aliased mixed imports through barrel re-exports](https://github.com/necoz-oss/type-tune/pull/23) — added a TypeScript-verified regression test and CI safeguard; merged after maintainer approval with all checks passing |
 | [claude-locator](https://github.com/scs0209/claude-locator) | [#6 — Add README troubleshooting section](https://github.com/scs0209/claude-locator/pull/6) |
 | [Earthing](https://github.com/manuvarkey/Earthing) | [#3 — Add user guide and API reference](https://github.com/manuvarkey/Earthing/pull/3) |

@@ -39,6 +39,17 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub overview statistics" height="165" />
+  <img src="./profile/top-langs.svg" alt="Most-used programming languages" height="165" />
+</p>
+
+<sub>Automatically refreshed daily through GitHub Actions. These cards summarize public repository activity; language distribution is not a measure of proficiency.</sub>
+
+---
+
 ### 🛠️ Tech Stack
 **Languages**
 

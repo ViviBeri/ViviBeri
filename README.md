@@ -92,7 +92,7 @@ Bilingual (English and Tamil) business website for tax, registration, compliance
 
 ## 🌐 Open-Source Contributions
 
-A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 15, 2026.
+A selection of upstream contributions across Home Assistant, Music Assistant, electrical engineering, developer tooling, and community projects. Statuses below reflect GitHub as of November 16, 2026.
 
 ### Merged
 
@@ -120,12 +120,13 @@ A selection of upstream contributions across Home Assistant, Music Assistant, el
 | [FreeCAD-HVAC](https://github.com/manuvarkey/FreeCAD-HVAC) | [#1 — Validate positive hydraulic diameter in Reynolds number](https://github.com/manuvarkey/FreeCAD-HVAC/pull/1) |
 | [freeCodeCamp — Back End Development and APIs](https://github.com/freeCodeCamp/back-end-development-and-apis) | [#97 — Correct the Run Tests button label](https://github.com/freeCodeCamp/back-end-development-and-apis/pull/97) |
 | [freeCodeCamp — How to Contribute](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | [#1072 — Add Sinhalese to the README language menu](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/1072) |
-| [S.P.L.U.R.T Telegram](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | [#1393 — Fix portal overlays](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/1393) |
+| [S.P.L.U.R.T Telegram](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | [#1393 — Fix portal overlays](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/1393) — approved and included in the November 16 test-merge deployment; gameplay verification pending |
 
 ### Closed without merge
 
 - [Home Assistant documentation #50082 — Improve discoverability of MQTT entity documentation](https://github.com/home-assistant/home-assistant.io/pull/50082).
 - [Contribute To This Project #4828 — Add contributor card](https://github.com/Syknapse/Contribute-To-This-Project/pull/4828).
+- [Nonograph #44 — Support safe collapsible Markdown sections](https://github.com/du82/nonograph/pull/44) — closed by the maintainer because the project is feature-complete and intentionally limits new features; this was a scope decision, not a reported code defect.
 
 ### My project development
 

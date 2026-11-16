@@ -25,6 +25,20 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### [WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)
+
+Framework-agnostic web engineering toolkit for AI agents: 43 reusable skills, an eight-stage delivery lifecycle, 13 engineering templates, and CI-backed repository, security-pattern, and accessibility keyboard checks.
+
+[![Validate Repository](https://github.com/ViviBeri/webcraft-pro/actions/workflows/validate.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/validate.yml)
+[![Security Pattern Audit](https://github.com/ViviBeri/webcraft-pro/actions/workflows/security-audit.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/security-audit.yml)
+[![Accessibility Keyboard Tests](https://github.com/ViviBeri/webcraft-pro/actions/workflows/accessibility-check.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/accessibility-check.yml)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Nexora AI](https://github.com/ViviBeri/nexora-ai)

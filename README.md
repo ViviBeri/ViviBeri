@@ -29,8 +29,15 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 ### [WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)
 
+<p align="center">
+  <a href="https://github.com/ViviBeri/webcraft-pro">
+    <img src="https://raw.githubusercontent.com/ViviBeri/webcraft-pro/main/assets/webcraft-pro-icon.png" alt="WebCraft Pro latest project logo" width="160"/>
+  </a>
+</p>
+
 Framework-agnostic web engineering toolkit for AI agents: 43 reusable skills, an eight-stage delivery lifecycle, 13 engineering templates, and CI-backed repository, security-pattern, and accessibility keyboard checks.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
 [![Validate Repository](https://github.com/ViviBeri/webcraft-pro/actions/workflows/validate.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/validate.yml)
 [![Security Pattern Audit](https://github.com/ViviBeri/webcraft-pro/actions/workflows/security-audit.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/security-audit.yml)
 [![Accessibility Keyboard Tests](https://github.com/ViviBeri/webcraft-pro/actions/workflows/accessibility-check.yml/badge.svg)](https://github.com/ViviBeri/webcraft-pro/actions/workflows/accessibility-check.yml)

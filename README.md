@@ -31,7 +31,7 @@ I turn messy, real-world operational problems into clean, reliable software syst
 
 <p align="center">
   <a href="https://github.com/ViviBeri/webcraft-pro">
-    <img src="https://raw.githubusercontent.com/ViviBeri/webcraft-pro/main/assets/webcraft-pro-icon.png" alt="WebCraft Pro latest project logo" width="160"/>
+    <img src="https://raw.githubusercontent.com/ViviBeri/webcraft-pro/main/assets/webcraft-pro-logo.png" alt="WebCraft Pro latest project logo" width="160"/>
   </a>
 </p>
 

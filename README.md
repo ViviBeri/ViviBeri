@@ -1,7 +1,8 @@
 # VIVIAN
 
 [![Markdown Link Check](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml)
-[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
+[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main)] (https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
+
 ## Engineer · Android & Web · Open Source
 
 **Engineering Reliable Software.**
@@ -48,7 +49,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ### 🛠️ Tech Stack
 
-**Languages**
+#### Languages
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -61,7 +62,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**Web**
+#### Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -69,17 +70,17 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-**Backend & Data**
+#### Backend & Data
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**Mobile**
+#### Mobile
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
-**DevOps & Tools**
+#### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)

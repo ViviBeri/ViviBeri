@@ -1,4 +1,6 @@
 # VIVIAN
+
+[![Markdown Link Check](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml)
 ### Engineer · Android & Web · Open Source
 
 **Engineering Reliable Software.**

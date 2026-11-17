@@ -12,6 +12,7 @@ on:
     paths:
       - "README.md"
       - ".github/workflows/readme.yml"
+      - ".markdownlint-cli2.jsonc"
   workflow_dispatch:
 
 permissions:

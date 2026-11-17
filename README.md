@@ -1,7 +1,7 @@
 # VIVIAN
 
 [![Markdown Link Check](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml)
-[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main)] (https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
+[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main) (https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
 
 ## Engineer · Android & Web · Open Source
 

@@ -1,0 +1,30 @@
+name: README Markdown Lint
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/readme.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/readme.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdownlint:
+    name: Lint README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Lint README Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: README.md

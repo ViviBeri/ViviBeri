@@ -21,11 +21,11 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ### 🚀 Featured Projects
 
-* **[WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)** — Framework-agnostic web engineering toolkit for AI agents. 43 reusable skills, 8-stage delivery pipeline.
+* **[WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)** — Framework-agnostic web engineering toolkit for AI agents, with 43 reusable skills, an eight-stage delivery pipeline, and automated quality checks.
 * **Nexora AI (Private)** — Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
-* **[LeadFlow](https://github.com/ViviBeri/LeadFlow)** — Android lead discovery and management workflow built for local businesses.
-* **[OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)** — Windows-first, local AI audio workflow with Demucs separation and RVC conversion.
-* **[GradeCalc](https://github.com/ViviBeri/gradecalc-app)** — Offline-capable academic calculator for SGPA, CGPA, and academic planning.
+* **[LeadFlow](https://github.com/ViviBeri/LeadFlow)** — Android lead discovery and management app built with Kotlin and Jetpack Compose.
+* **[OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)** — Windows-first, local AI audio workflow for vocal separation, RVC conversion, mixing, and export.
+* **[GradeCalc](https://github.com/ViviBeri/gradecalc-app)** — Offline-capable academic calculator for SGPA and CGPA.
 * **[KVB Enterprises](https://github.com/ViviBeri/tax-business)** — Bilingual business website for tax, registration, compliance, HVAC, and electrical support.
 
 ---
@@ -34,11 +34,22 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 **Selected merged contributions**
 
-- **Home Assistant:** Improved Tado presence modes (#50420), HUPnP sensor instructions (#50417), and Alexa integration requirements (#50241).
-- **Oqtier:** Added AI browser CLI tests, a typed QL insert test suite, and CLI flag/help handling improvements.
-- **Music Assistant:** Used artwork colors for the “More” button (#2795).
+* **[Home Assistant documentation](https://github.com/home-assistant/home-assistant.io):** Explained Tado presence modes ([#50420](https://github.com/home-assistant/home-assistant.io/pull/50420)) and updated UniFi bandwidth sensor instructions ([#50417](https://github.com/home-assistant/home-assistant.io/pull/50417)).
+* **[Quelor](https://github.com/coherera/quelor):** Added CLI benchmark tests ([#62](https://github.com/coherera/quelor/pull/62)) and deduplicated decision types across decider and trace ([#47](https://github.com/coherera/quelor/pull/47)).
+* **[OpenMed](https://github.com/maziyarpanahi/openmed):** Added regression coverage for unique packaged JSON Schema identifiers ([#5560](https://github.com/maziyarpanahi/openmed/pull/5560)).
 
-[View my full contribution history on GitHub](https://github.com/ViviBeri?tab=overview)
+[View my full contribution history on GitHub](https://github.com/pulls?q=is%3Apr+author%3AViviBeri)
+
+---
+
+### 🛠️ Engineering Quality & Practices
+
+I build systems with explicit verification and maintainability in mind:
+
+* **Automated testing:** Project-specific GitHub Actions run regression tests, Windows checks, and repository validation.
+* **Accessibility:** WebCraft Pro includes Playwright keyboard and focus checks.
+* **Security:** WebCraft Pro runs a static security-pattern audit; OneClick AI Cover includes tests around its local API and model-trust boundaries.
+* **Human-reviewed AI:** AI can accelerate implementation, but changes are reviewed and validated before they are treated as complete.
 
 ---
 
@@ -94,3 +105,6 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 I bring a mechanical and operations-engineering perspective to software: understand the real process, identify failure points, build a workable system, test it, and keep improving it.
 
 ---
+### 🤝 Open to Collaboration
+
+Open to open-source collaboration in Android, developer tooling, automation, and AI engineering.

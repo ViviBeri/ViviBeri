@@ -2,7 +2,7 @@
 
 [![Markdown Link Check](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml)
 [![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
-### Engineer · Android & Web · Open Source
+## Engineer · Android & Web · Open Source
 
 **Engineering Reliable Software.**
 
@@ -13,11 +13,13 @@
 I build practical software for real-world problems — from Android apps and local-first AI to reliable infrastructure and automation.
 
 ### 🎯 Mission
+
 I turn messy, real-world operations problems into clean, reliable software. Android, web, automation, and local-first AI. I understand the process, design for failure, validate behavior, and improve what ships. I value dependable systems over polished demos.
 
 ---
 
 ### 🚀 Featured Projects
+
 * **[WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)** — Framework-agnostic web engineering toolkit for AI agents. 43 reusable skills, 8-stage delivery pipeline.
 * **Nexora AI (Private)** — Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
 * **[LeadFlow](https://github.com/ViviBeri/LeadFlow)** — Android lead discovery and management workflow built for local businesses.
@@ -30,11 +32,13 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 ### 🌐 Open-Source Contributions
 
 **Merged:**
+
 * **Home Assistant:** Fix Change Tado presence modes (#50420), update HUPnP sensor instructions (#50417), and clarify Alexa requirements (#50241).
 * **Music Assistant:** Use artwork colors for the "More" button (#2795).
 * **Oqtier:** Add tests for AI browser CLI and a typed test suite for QL insert, unify CLI flags, and help handling.
 
 **Open PRs:**
+
 * **Home Assistant:** Deduplicate device classes across tracker and router platforms, and set automatic Core updates by default.
 * **freeCodeCamp:** Correct the Run Tests button label in the Back End APIs curriculum.
 
@@ -43,6 +47,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 ---
 
 ### 🛠️ Tech Stack
+
 **Languages**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -84,6 +89,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 ---
 
 ### 🎓 Engineering Foundation
+
 * **M.Sc.** Manufacturing Processing
 * **B.Tech** Mechanical Engineering
 * **Diploma** in Mechanical Engineering

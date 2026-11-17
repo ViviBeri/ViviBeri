@@ -1,7 +1,7 @@
 # VIVIAN
 
 [![Markdown Link Check](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/markdown-links.yml)
-[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main) (https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
+[![README CI](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/ViviBeri/ViviBeri/actions/workflows/readme.yml)
 
 ## Engineer · Android & Web · Open Source
 
@@ -32,18 +32,13 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ### 🌐 Open-Source Contributions
 
-**Merged:**
+**Selected merged contributions**
 
-* **Home Assistant:** Fix Change Tado presence modes (#50420), update HUPnP sensor instructions (#50417), and clarify Alexa requirements (#50241).
-* **Music Assistant:** Use artwork colors for the "More" button (#2795).
-* **Oqtier:** Add tests for AI browser CLI and a typed test suite for QL insert, unify CLI flags, and help handling.
+- **Home Assistant:** Improved Tado presence modes (#50420), HUPnP sensor instructions (#50417), and Alexa integration requirements (#50241).
+- **Oqtier:** Added AI browser CLI tests, a typed QL insert test suite, and CLI flag/help handling improvements.
+- **Music Assistant:** Used artwork colors for the “More” button (#2795).
 
-**Open PRs:**
-
-* **Home Assistant:** Deduplicate device classes across tracker and router platforms, and set automatic Core updates by default.
-* **freeCodeCamp:** Correct the Run Tests button label in the Back End APIs curriculum.
-
-*(Check out my [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AViviBeri) for the full history across 25+ repositories).*
+[View my full contribution history on GitHub](https://github.com/ViviBeri?tab=overview)
 
 ---
 

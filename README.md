@@ -18,7 +18,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ### 🚀 Featured Projects
 * **[WebCraft Pro](https://github.com/ViviBeri/webcraft-pro)** — Framework-agnostic web engineering toolkit for AI agents. 43 reusable skills, 8-stage delivery pipeline.
-* **[Nexora AI](https://github.com/ViviBeri/nexora-ai)** — Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
+* **Nexora AI (Private)** — Human-reviewed task workspace for revision history, workflow coordination, and local-first AI.
 * **[LeadFlow](https://github.com/ViviBeri/LeadFlow)** — Android lead discovery and management workflow built for local businesses.
 * **[OneClick AI Cover](https://github.com/ViviBeri/OneClick-AI-Cover)** — Windows-first, local AI audio workflow with Demucs separation and RVC conversion.
 * **[GradeCalc](https://github.com/ViviBeri/gradecalc-app)** — Offline-capable academic calculator for SGPA, CGPA, and academic planning.
@@ -38,8 +38,6 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 * **freeCodeCamp:** Correct the Run Tests button label in the Back End APIs curriculum.
 
 *(Check out my [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AViviBeri) for the full history across 25+ repositories).*
-
----
 
 ---
 

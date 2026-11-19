@@ -34,7 +34,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 **Selected merged contributions**
 
-* **[Home Assistant documentation](https://github.com/home-assistant/home-assistant.io):** Explained Tado presence modes ([#50420](https://github.com/home-assistant/home-assistant.io/pull/50420)) and updated UniFi bandwidth sensor instructions ([#50417](https://github.com/home-assistant/home-assistant.io/pull/50417)).
+* **[Home Assistant documentation](https://github.com/home-assistant/home-assistant.io):** Documented older SolarEdge display-model setup ([#50504](https://github.com/home-assistant/home-assistant.io/pull/50504)), clarified Airzone Cloud subscription requirements ([#50414](https://github.com/home-assistant/home-assistant.io/pull/50414)), explained Tado presence modes ([#50420](https://github.com/home-assistant/home-assistant.io/pull/50420)), and updated UniFi bandwidth sensor instructions ([#50417](https://github.com/home-assistant/home-assistant.io/pull/50417)).
 * **[Quelor](https://github.com/coherera/quelor):** Added CLI benchmark tests ([#62](https://github.com/coherera/quelor/pull/62)) and deduplicated decision types across decider and trace ([#47](https://github.com/coherera/quelor/pull/47)).
 * **[OpenMed](https://github.com/maziyarpanahi/openmed):** Added regression coverage for unique packaged JSON Schema identifiers ([#5560](https://github.com/maziyarpanahi/openmed/pull/5560)).
 

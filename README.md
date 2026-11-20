@@ -32,7 +32,7 @@ I turn messy, real-world operations problems into clean, reliable software. Andr
 
 ### 🌐 Open-Source Contributions
 
-**Selected merged contributions**
+#### Selected merged contributions
 
 * **[Home Assistant documentation](https://github.com/home-assistant/home-assistant.io):** Documented older SolarEdge display-model setup ([#50504](https://github.com/home-assistant/home-assistant.io/pull/50504)), clarified Airzone Cloud subscription requirements ([#50414](https://github.com/home-assistant/home-assistant.io/pull/50414)), explained Tado presence modes ([#50420](https://github.com/home-assistant/home-assistant.io/pull/50420)), and updated UniFi bandwidth sensor instructions ([#50417](https://github.com/home-assistant/home-assistant.io/pull/50417)).
 * **[Quelor](https://github.com/coherera/quelor):** Added CLI benchmark tests ([#62](https://github.com/coherera/quelor/pull/62)) and deduplicated decision types across decider and trace ([#47](https://github.com/coherera/quelor/pull/47)).
@@ -105,6 +105,7 @@ I build systems with explicit verification and maintainability in mind:
 I bring a mechanical and operations-engineering perspective to software: understand the real process, identify failure points, build a workable system, test it, and keep improving it.
 
 ---
+
 ### 🤝 Open to Collaboration
 
 Open to open-source collaboration in Android, developer tooling, automation, and AI engineering.
